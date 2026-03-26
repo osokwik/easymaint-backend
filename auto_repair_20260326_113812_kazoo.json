@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "direction": "inbound",
+    "duration": 132,
+    "call_id": "ef8202649dee427bb084bd7b",
+    "caller_id_number": "+12065551123",
+    "caller_id_name": "Susan Evans",
+    "callee_id_number": "+12065551234"
+  },
+  "call_record_id": "202603-a9b8717bb6924dfcacd4957d5fd49619",
+  "transcription": {
+    "segments": [
+      {
+        "text": [
+          "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I assist you today?"
+        ],
+        "speaker": "local party",
+        "start_time": 0,
+        "end_time": 3,
+        "channel": "left",
+        "id": 0
+      },
+      {
+        "text": [
+          "Hi, Michael. It's Susan Evans. I need to schedule an oil change for my car."
+        ],
+        "speaker": "remote party",
+        "start_time": 3,
+        "end_time": 10,
+        "channel": "right",
+        "id": 1
+      },
+      {
+        "text": [
+          "Hi, Susan! Great to hear from you. When would you like to come in?"
+        ],
+        "speaker": "local party",
+        "start_time": 10,
+        "end_time": 14,
+        "channel": "left",
+        "id": 2
+      },
+      {
+        "text": [
+          "I was hoping to do it this week, maybe Thursday?"
+        ],
+        "speaker": "remote party",
+        "start_time": 14,
+        "end_time": 20,
+        "channel": "right",
+        "id": 3
+      },
+      {
+        "text": [
+          "Let me check our schedule for Thursday. One moment, please."
+        ],
+        "speaker": "local party",
+        "start_time": 20,
+        "end_time": 25,
+        "channel": "left",
+        "id": 4
+      },
+      {
+        "text": [
+          "It looks like we have openings at 10:00 AM or 2:00 PM. Which time works for you?"
+        ],
+        "speaker": "local party",
+        "start_time": 25,
+        "end_time": 35,
+        "channel": "left",
+        "id": 5
+      },
+      {
+        "text": [
+          "The 10:00 AM slot works perfectly."
+        ],
+        "speaker": "remote party",
+        "start_time": 35,
+        "end_time": 40,
+        "channel": "right",
+        "id": 6
+      },
+      {
+        "text": [
+          "Great! I’ll book you for 10:00 AM on Thursday for an oil change."
+        ],
+        "speaker": "local party",
+        "start_time": 40,
+        "end_time": 45,
+        "channel": "left",
+        "id": 7
+      },
+      {
+        "text": [
+          "Thank you! Just a quick question—how much is the oil change again?"
+        ],
+        "speaker": "remote party",
+        "start_time": 45,
+        "end_time": 50,
+        "channel": "right",
+        "id": 8
+      },
+      {
+        "text": [
+          "The oil change is between $40 and $60, depending on the oil type we use."
+        ],
+        "speaker": "local party",
+        "start_time": 50,
+        "end_time": 54,
+        "channel": "left",
+        "id": 9
+      },
+      {
+        "text": [
+          "Got it. I’ll trust your judgment on that."
+        ],
+        "speaker": "remote party",
+        "start_time": 54,
+        "end_time": 58,
+        "channel": "right",
+        "id": 10
+      },
+      {
+        "text": [
+          "Absolutely! We'll use the best option for your vehicle."
+        ],
+        "speaker": "local party",
+        "start_time": 58,
+        "end_time": 62,
+        "channel": "left",
+        "id": 11
+      },
+      {
+        "text": [
+          "Also, I was wondering if you could check my brakes while I’m there? They’ve been making a bit of noise lately."
+        ],
+        "speaker": "remote party",
+        "start_time": 62,
+        "end_time": 70,
+        "channel": "right",
+        "id": 12
+      },
+      {
+        "text": [
+          "Sure, we can do a brake inspection for $30 while your car is here."
+        ],
+        "speaker": "local party",
+        "start_time": 70,
+        "end_time": 75,
+        "channel": "left",
+        "id": 13
+      },
+      {
+        "text": [
+          "Sounds good to me!"
+        ],
+        "speaker": "remote party",
+        "start_time": 75,
+        "end_time": 80,
+        "channel": "right",
+        "id": 14
+      },
+      {
+        "text": [
+          "Awesome! So, that’s an oil change and a brake inspection scheduled for Thursday at 10:00 AM."
+        ],
+        "speaker": "local party",
+        "start_time": 80,
+        "end_time": 85,
+        "channel": "left",
+        "id": 15
+      },
+      {
+        "text": [
+          "Yes, perfect. Also, could you send me a reminder via email?"
+        ],
+        "speaker": "remote party",
+        "start_time": 85,
+        "end_time": 90,
+        "channel": "right",
+        "id": 16
+      },
+      {
+        "text": [
+          "Of course! I’ll make sure to send you an email reminder before your appointment."
+        ],
+        "speaker": "local party",
+        "start_time": 90,
+        "end_time": 94,
+        "channel": "left",
+        "id": 17
+      },
+      {
+        "text": [
+          "Thank you! Oh, is there anything else I should be aware of?"
+        ],
+        "speaker": "remote party",
+        "start_time": 94,
+        "end_time": 100,
+        "channel": "right",
+        "id": 18
+      },
+      {
+        "text": [
+          "Just a heads-up, we offer a full vehicle diagnostic service if you’re experiencing any other issues."
+        ],
+        "speaker": "local party",
+        "start_time": 100,
+        "end_time": 105,
+        "channel": "left",
+        "id": 19
+      },
+      {
+        "text": [
+          "I might consider that if the brake noise continues."
+        ],
+        "speaker": "remote party",
+        "start_time": 105,
+        "end_time": 110,
+        "channel": "right",
+        "id": 20
+      },
+      {
+        "text": [
+          "That sounds like a plan. We'll go through everything during your visit."
+        ],
+        "speaker": "local party",
+        "start_time": 110,
+        "end_time": 115,
+        "channel": "left",
+        "id": 21
+      },
+      {
+        "text": [
+          "Great! Thanks for your help, Michael."
+        ],
+        "speaker": "remote party",
+        "start_time": 115,
+        "end_time": 120,
+        "channel": "right",
+        "id": 22
+      },
+      {
+        "text": [
+          "No problem at all, Susan. We’re looking forward to seeing you on Thursday!"
+        ],
+        "speaker": "local party",
+        "start_time": 120,
+        "end_time": 124,
+        "channel": "left",
+        "id": 23
+      },
+      {
+        "text": [
+          "Thanks! Have a great day!"
+        ],
+        "speaker": "remote party",
+        "start_time": 124,
+        "end_time": 130,
+        "channel": "right",
+        "id": 24
+      },
+      {
+        "text": [
+          "You too! Bye now."
+        ],
+        "speaker": "local party",
+        "start_time": 130,
+        "end_time": 132,
+        "channel": "left",
+        "id": 25
+      }
+    ]
+  }
+}
