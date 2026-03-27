@@ -1,0 +1,285 @@
+{
+  "call_record_id": "202603-07bc248e69fa4be0bf908c65a06760b1",
+  "metadata": {
+    "direction": "inbound",
+    "duration": 114,
+    "call_id": "144cfbbb77654c4cb9874fc8fb5cd509",
+    "caller_id_number": "+12065554455",
+    "caller_id_name": "Bryan Nelson",
+    "callee_id_number": "+12065551234"
+  },
+  "transcription": {
+    "segments": [
+      {
+        "text": [
+          "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?"
+        ],
+        "speaker": "local party",
+        "start_time": 0,
+        "end_time": 3,
+        "channel": "left",
+        "id": 0
+      },
+      {
+        "text": [
+          "Hi Michael, it's Bryan Nelson. I hope you're doing well!"
+        ],
+        "speaker": "remote party",
+        "start_time": 3,
+        "end_time": 7,
+        "channel": "right",
+        "id": 1
+      },
+      {
+        "text": [
+          "Hey Bryan! I'm doing great, thanks for asking. What can I do for you today?"
+        ],
+        "speaker": "local party",
+        "start_time": 7,
+        "end_time": 10,
+        "channel": "left",
+        "id": 2
+      },
+      {
+        "text": [
+          "Well, I wanted to discuss getting a diagnostics check on my car again."
+        ],
+        "speaker": "remote party",
+        "start_time": 10,
+        "end_time": 15,
+        "channel": "right",
+        "id": 3
+      },
+      {
+        "text": [
+          "Of course! We can definitely get that sorted. Any specific issues you're noticing?"
+        ],
+        "speaker": "local party",
+        "start_time": 15,
+        "end_time": 19,
+        "channel": "left",
+        "id": 4
+      },
+      {
+        "text": [
+          "Yeah, it\u2019s been making a weird noise lately, especially when I accelerate."
+        ],
+        "speaker": "remote party",
+        "start_time": 19,
+        "end_time": 24,
+        "channel": "right",
+        "id": 5
+      },
+      {
+        "text": [
+          "I see. That sounds like something we should take a closer look at."
+        ],
+        "speaker": "local party",
+        "start_time": 24,
+        "end_time": 28,
+        "channel": "left",
+        "id": 6
+      },
+      {
+        "text": [
+          "Right. I\u2019d like to get it done as soon as possible. When can I bring it in?"
+        ],
+        "speaker": "remote party",
+        "start_time": 28,
+        "end_time": 34,
+        "channel": "right",
+        "id": 7
+      },
+      {
+        "text": [
+          "We have openings this week. How does Thursday sound?"
+        ],
+        "speaker": "local party",
+        "start_time": 34,
+        "end_time": 39,
+        "channel": "left",
+        "id": 8
+      },
+      {
+        "text": [
+          "Thursday works for me. What time should I come in?"
+        ],
+        "speaker": "remote party",
+        "start_time": 39,
+        "end_time": 43,
+        "channel": "right",
+        "id": 9
+      },
+      {
+        "text": [
+          "How about 10 AM? We can perform a full vehicle diagnostics for $100."
+        ],
+        "speaker": "local party",
+        "start_time": 43,
+        "end_time": 48,
+        "channel": "left",
+        "id": 10
+      },
+      {
+        "text": [
+          "Sounds good. How long will that take?"
+        ],
+        "speaker": "remote party",
+        "start_time": 48,
+        "end_time": 52,
+        "channel": "right",
+        "id": 11
+      },
+      {
+        "text": [
+          "It usually takes about an hour. We'll call you with the results right after."
+        ],
+        "speaker": "local party",
+        "start_time": 52,
+        "end_time": 56,
+        "channel": "left",
+        "id": 12
+      },
+      {
+        "text": [
+          "Perfect! I really appreciate your quick turnaround."
+        ],
+        "speaker": "remote party",
+        "start_time": 56,
+        "end_time": 61,
+        "channel": "right",
+        "id": 13
+      },
+      {
+        "text": [
+          "No problem at all! We aim to provide immediate feedback."
+        ],
+        "speaker": "local party",
+        "start_time": 61,
+        "end_time": 65,
+        "channel": "left",
+        "id": 14
+      },
+      {
+        "text": [
+          "Also, I wanted to ask about getting an oil change while I'm there."
+        ],
+        "speaker": "remote party",
+        "start_time": 65,
+        "end_time": 70,
+        "channel": "right",
+        "id": 15
+      },
+      {
+        "text": [
+          "We can certainly do that! An oil change is $40 to $60, depending on the oil you choose."
+        ],
+        "speaker": "local party",
+        "start_time": 70,
+        "end_time": 74,
+        "channel": "left",
+        "id": 16
+      },
+      {
+        "text": [
+          "Let\u2019s do the standard one."
+        ],
+        "speaker": "remote party",
+        "start_time": 74,
+        "end_time": 78,
+        "channel": "right",
+        "id": 17
+      },
+      {
+        "text": [
+          "Great choice! I\u2019ll schedule the diagnostics and oil change for you on Thursday at 10 AM."
+        ],
+        "speaker": "local party",
+        "start_time": 78,
+        "end_time": 82,
+        "channel": "left",
+        "id": 18
+      },
+      {
+        "text": [
+          "Thank you! Is there anything else I should be aware of?"
+        ],
+        "speaker": "remote party",
+        "start_time": 82,
+        "end_time": 86,
+        "channel": "right",
+        "id": 19
+      },
+      {
+        "text": [
+          "Just to bring any previous repair records if you have them; they might help us troubleshoot faster."
+        ],
+        "speaker": "local party",
+        "start_time": 86,
+        "end_time": 90,
+        "channel": "left",
+        "id": 20
+      },
+      {
+        "text": [
+          "Sure, I can do that."
+        ],
+        "speaker": "remote party",
+        "start_time": 90,
+        "end_time": 94,
+        "channel": "right",
+        "id": 21
+      },
+      {
+        "text": [
+          "Excellent! I\u2019ll also prepare a quote for any other services we might recommend after the diagnostics."
+        ],
+        "speaker": "local party",
+        "start_time": 94,
+        "end_time": 98,
+        "channel": "left",
+        "id": 22
+      },
+      {
+        "text": [
+          "Sounds good, thank you for that!"
+        ],
+        "speaker": "remote party",
+        "start_time": 98,
+        "end_time": 102,
+        "channel": "right",
+        "id": 23
+      },
+      {
+        "text": [
+          "You\u2019re welcome! I\u2019ll see you Thursday at 10 AM, Bryan."
+        ],
+        "speaker": "local party",
+        "start_time": 102,
+        "end_time": 107,
+        "channel": "left",
+        "id": 24
+      },
+      {
+        "text": [
+          "Looking forward to it! Have a great day, Michael."
+        ],
+        "speaker": "remote party",
+        "start_time": 107,
+        "end_time": 110,
+        "channel": "right",
+        "id": 25
+      },
+      {
+        "text": [
+          "You too, Bryan! Take care."
+        ],
+        "speaker": "local party",
+        "start_time": 110,
+        "end_time": 114,
+        "channel": "left",
+        "id": 26
+      }
+    ]
+  }
+}
