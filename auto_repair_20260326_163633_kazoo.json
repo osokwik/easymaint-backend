@@ -1,0 +1,305 @@
+{
+  "call_record_id": "202603-d3e9a545c94845ea9d27d2c79a93d6f9",
+  "metadata": {
+    "direction": "inbound",
+    "duration": 124,
+    "call_id": "003f7aeee3064531aa68edf0d97279b5",
+    "caller_id_number": "+12065552345",
+    "caller_id_name": "Richard Carter",
+    "callee_id_number": "+12065551234"
+  },
+  "transcription": {
+    "segments": [
+      {
+        "text": [
+          "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?"
+        ],
+        "speaker": "local party",
+        "start_time": 0,
+        "end_time": 3,
+        "channel": "left",
+        "id": 0
+      },
+      {
+        "text": [
+          "Hi Michael, it\u2019s Richard Carter. I hope you're doing well."
+        ],
+        "speaker": "remote party",
+        "start_time": 3,
+        "end_time": 8,
+        "channel": "right",
+        "id": 1
+      },
+      {
+        "text": [
+          "Hi Richard! I'm doing great, thanks for asking. How about you?"
+        ],
+        "speaker": "local party",
+        "start_time": 8,
+        "end_time": 10,
+        "channel": "left",
+        "id": 2
+      },
+      {
+        "text": [
+          "I'm good, just having some issues with my car again."
+        ],
+        "speaker": "remote party",
+        "start_time": 10,
+        "end_time": 15,
+        "channel": "right",
+        "id": 3
+      },
+      {
+        "text": [
+          "I\u2019m sorry to hear that. What seems to be the problem?"
+        ],
+        "speaker": "local party",
+        "start_time": 15,
+        "end_time": 20,
+        "channel": "left",
+        "id": 4
+      },
+      {
+        "text": [
+          "Well, I think the brakes might need attention. They've been making a weird noise lately."
+        ],
+        "speaker": "remote party",
+        "start_time": 20,
+        "end_time": 26,
+        "channel": "right",
+        "id": 5
+      },
+      {
+        "text": [
+          "That doesn\u2019t sound good. When was the last time they were checked?"
+        ],
+        "speaker": "local party",
+        "start_time": 26,
+        "end_time": 30,
+        "channel": "left",
+        "id": 6
+      },
+      {
+        "text": [
+          "It\u2019s been a while now, probably around six months."
+        ],
+        "speaker": "remote party",
+        "start_time": 30,
+        "end_time": 35,
+        "channel": "right",
+        "id": 7
+      },
+      {
+        "text": [
+          "We should definitely take a look. Would you like to schedule a brake inspection?"
+        ],
+        "speaker": "local party",
+        "start_time": 35,
+        "end_time": 39,
+        "channel": "left",
+        "id": 8
+      },
+      {
+        "text": [
+          "Yes, please. How much is that?"
+        ],
+        "speaker": "remote party",
+        "start_time": 39,
+        "end_time": 43,
+        "channel": "right",
+        "id": 9
+      },
+      {
+        "text": [
+          "The brake inspection is $30 and usually takes about 30 minutes."
+        ],
+        "speaker": "local party",
+        "start_time": 43,
+        "end_time": 48,
+        "channel": "left",
+        "id": 10
+      },
+      {
+        "text": [
+          "That sounds reasonable. Can I come in tomorrow?"
+        ],
+        "speaker": "remote party",
+        "start_time": 48,
+        "end_time": 53,
+        "channel": "right",
+        "id": 11
+      },
+      {
+        "text": [
+          "Sure! We have availability at 10 AM or 2 PM. Which works better for you?"
+        ],
+        "speaker": "local party",
+        "start_time": 53,
+        "end_time": 57,
+        "channel": "left",
+        "id": 12
+      },
+      {
+        "text": [
+          "Let\u2019s do 10 AM."
+        ],
+        "speaker": "remote party",
+        "start_time": 57,
+        "end_time": 62,
+        "channel": "right",
+        "id": 13
+      },
+      {
+        "text": [
+          "Great! I\u2019ll put you down for a brake inspection at 10 AM tomorrow."
+        ],
+        "speaker": "local party",
+        "start_time": 62,
+        "end_time": 65,
+        "channel": "left",
+        "id": 14
+      },
+      {
+        "text": [
+          "Perfect. Also, I need to get an oil change done soon, too."
+        ],
+        "speaker": "remote party",
+        "start_time": 65,
+        "end_time": 71,
+        "channel": "right",
+        "id": 15
+      },
+      {
+        "text": [
+          "We can take care of that as well. It's $40 to $60 depending on the oil type."
+        ],
+        "speaker": "local party",
+        "start_time": 71,
+        "end_time": 75,
+        "channel": "left",
+        "id": 16
+      },
+      {
+        "text": [
+          "I usually go for the synthetic oil, so I\u2019ll expect it to be on the higher end."
+        ],
+        "speaker": "remote party",
+        "start_time": 75,
+        "end_time": 79,
+        "channel": "right",
+        "id": 17
+      },
+      {
+        "text": [
+          "Got it. We could do that right after the brake inspection if you'd like."
+        ],
+        "speaker": "local party",
+        "start_time": 79,
+        "end_time": 83,
+        "channel": "left",
+        "id": 18
+      },
+      {
+        "text": [
+          "That would be great, let's do that."
+        ],
+        "speaker": "remote party",
+        "start_time": 83,
+        "end_time": 87,
+        "channel": "right",
+        "id": 19
+      },
+      {
+        "text": [
+          "So, that would be a brake inspection and an oil change tomorrow."
+        ],
+        "speaker": "local party",
+        "start_time": 87,
+        "end_time": 91,
+        "channel": "left",
+        "id": 20
+      },
+      {
+        "text": [
+          "Yes, and could you recommend a good brand for the oil?"
+        ],
+        "speaker": "remote party",
+        "start_time": 91,
+        "end_time": 96,
+        "channel": "right",
+        "id": 21
+      },
+      {
+        "text": [
+          "Absolutely! We usually recommend Mobil 1 for synthetic oil. It's reliable."
+        ],
+        "speaker": "local party",
+        "start_time": 96,
+        "end_time": 101,
+        "channel": "left",
+        "id": 22
+      },
+      {
+        "text": [
+          "Sounds good. Anything else I should know before coming in?"
+        ],
+        "speaker": "remote party",
+        "start_time": 101,
+        "end_time": 105,
+        "channel": "right",
+        "id": 23
+      },
+      {
+        "text": [
+          "Just remember to bring your keys and any other details about your car's issues if you notice anything else."
+        ],
+        "speaker": "local party",
+        "start_time": 105,
+        "end_time": 111,
+        "channel": "left",
+        "id": 24
+      },
+      {
+        "text": [
+          "Will do, Michael. Thanks for the help!"
+        ],
+        "speaker": "remote party",
+        "start_time": 111,
+        "end_time": 114,
+        "channel": "right",
+        "id": 25
+      },
+      {
+        "text": [
+          "My pleasure, Richard! Looking forward to seeing you tomorrow at 10 AM."
+        ],
+        "speaker": "local party",
+        "start_time": 114,
+        "end_time": 117,
+        "channel": "left",
+        "id": 26
+      },
+      {
+        "text": [
+          "Thanks again! Bye."
+        ],
+        "speaker": "remote party",
+        "start_time": 117,
+        "end_time": 121,
+        "channel": "right",
+        "id": 27
+      },
+      {
+        "text": [
+          "Bye!"
+        ],
+        "speaker": "local party",
+        "start_time": 121,
+        "end_time": 124,
+        "channel": "left",
+        "id": 28
+      }
+    ]
+  }
+}
