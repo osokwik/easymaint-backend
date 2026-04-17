@@ -1,275 +1,244 @@
 {
-  "call_record_id": "202603-5a348a4558c54636835dd4a0c1587ee9",
-  "metadata": {
-    "direction": "inbound",
-    "duration": 130,
-    "call_id": "0762f5468c624780834b74304340fd05",
-    "caller_id_number": "+12065552020",
-    "caller_id_name": "Nancy Cooper",
-    "callee_id_number": "+12065551234"
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
   },
-  "transcription": {
-    "segments": [
-      {
-        "text": [
-          "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?"
-        ],
-        "speaker": "local party",
-        "start_time": 0,
-        "end_time": 3,
-        "channel": "left",
-        "id": 0
-      },
-      {
-        "text": [
-          "Hi Michael, my name is Nancy Cooper. I found your number through a Google search."
-        ],
-        "speaker": "remote party",
-        "start_time": 3,
-        "end_time": 10,
-        "channel": "right",
-        "id": 1
-      },
-      {
-        "text": [
-          "Great to hear from you, Nancy! What can I assist you with today?"
-        ],
-        "speaker": "local party",
-        "start_time": 10,
-        "end_time": 15,
-        "channel": "left",
-        "id": 2
-      },
-      {
-        "text": [
-          "I\u2019m looking for reliable diagnostics for my car. It\u2019s been making some strange noises lately."
-        ],
-        "speaker": "remote party",
-        "start_time": 15,
-        "end_time": 25,
-        "channel": "right",
-        "id": 3
-      },
-      {
-        "text": [
-          "I understand how concerning that can be. We offer full vehicle diagnostics that last about an hour."
-        ],
-        "speaker": "local party",
-        "start_time": 25,
-        "end_time": 30,
-        "channel": "left",
-        "id": 4
-      },
-      {
-        "text": [
-          "How much does that cost?"
-        ],
-        "speaker": "remote party",
-        "start_time": 30,
-        "end_time": 35,
-        "channel": "right",
-        "id": 5
-      },
-      {
-        "text": [
-          "The full vehicle diagnostics are priced at $100."
-        ],
-        "speaker": "local party",
-        "start_time": 35,
-        "end_time": 38,
-        "channel": "left",
-        "id": 6
-      },
-      {
-        "text": [
-          "Okay, that sounds reasonable. When can I bring it in?"
-        ],
-        "speaker": "remote party",
-        "start_time": 38,
-        "end_time": 42,
-        "channel": "right",
-        "id": 7
-      },
-      {
-        "text": [
-          "We\u2019re open Monday through Friday from 8 AM to 6 PM, and Saturday from 9 AM to 4 PM. When would you like to come in?"
-        ],
-        "speaker": "local party",
-        "start_time": 42,
-        "end_time": 50,
-        "channel": "left",
-        "id": 8
-      },
-      {
-        "text": [
-          "Would next Tuesday work for you?"
-        ],
-        "speaker": "remote party",
-        "start_time": 50,
-        "end_time": 55,
-        "channel": "right",
-        "id": 9
-      },
-      {
-        "text": [
-          "Let me check\u2026 Yes, we have availability. What time were you thinking?"
-        ],
-        "speaker": "local party",
-        "start_time": 55,
-        "end_time": 60,
-        "channel": "left",
-        "id": 10
-      },
-      {
-        "text": [
-          "How about 10 AM?"
-        ],
-        "speaker": "remote party",
-        "start_time": 60,
-        "end_time": 65,
-        "channel": "right",
-        "id": 11
-      },
-      {
-        "text": [
-          "Perfect! I\u2019ll schedule you for 10 AM next Tuesday."
-        ],
-        "speaker": "local party",
-        "start_time": 65,
-        "end_time": 68,
-        "channel": "left",
-        "id": 12
-      },
-      {
-        "text": [
-          "Great, thank you! Will I need to leave my car there for a while?"
-        ],
-        "speaker": "remote party",
-        "start_time": 68,
-        "end_time": 75,
-        "channel": "right",
-        "id": 13
-      },
-      {
-        "text": [
-          "Yes, typically for diagnostics, we might need it for the hour, and we'll call you with the results."
-        ],
-        "speaker": "local party",
-        "start_time": 75,
-        "end_time": 80,
-        "channel": "left",
-        "id": 14
-      },
-      {
-        "text": [
-          "Alright, sounds good. Also, do you do any repairs if needed?"
-        ],
-        "speaker": "remote party",
-        "start_time": 80,
-        "end_time": 85,
-        "channel": "right",
-        "id": 15
-      },
-      {
-        "text": [
-          "Absolutely! We can handle a range of repairs, from engine issues to brake systems."
-        ],
-        "speaker": "local party",
-        "start_time": 85,
-        "end_time": 90,
-        "channel": "left",
-        "id": 16
-      },
-      {
-        "text": [
-          "That\u2019s good to know! I\u2019ll definitely need to discuss that after the diagnostics."
-        ],
-        "speaker": "remote party",
-        "start_time": 90,
-        "end_time": 95,
-        "channel": "right",
-        "id": 17
-      },
-      {
-        "text": [
-          "Sure thing. If any repairs are needed, we can provide you with a quote right after the diagnostics."
-        ],
-        "speaker": "local party",
-        "start_time": 95,
-        "end_time": 100,
-        "channel": "left",
-        "id": 18
-      },
-      {
-        "text": [
-          "Awesome! I appreciate your help, Michael."
-        ],
-        "speaker": "remote party",
-        "start_time": 100,
-        "end_time": 105,
-        "channel": "right",
-        "id": 19
-      },
-      {
-        "text": [
-          "No problem at all, Nancy! Is there anything else I can assist you with today?"
-        ],
-        "speaker": "local party",
-        "start_time": 105,
-        "end_time": 110,
-        "channel": "left",
-        "id": 20
-      },
-      {
-        "text": [
-          "No, that\u2019s it for now. Thank you!"
-        ],
-        "speaker": "remote party",
-        "start_time": 110,
-        "end_time": 115,
-        "channel": "right",
-        "id": 21
-      },
-      {
-        "text": [
-          "You\u2019re welcome! I look forward to seeing you next Tuesday at 10 AM."
-        ],
-        "speaker": "local party",
-        "start_time": 115,
-        "end_time": 120,
-        "channel": "left",
-        "id": 22
-      },
-      {
-        "text": [
-          "Thanks, Michael! Have a good day."
-        ],
-        "speaker": "remote party",
-        "start_time": 120,
-        "end_time": 125,
-        "channel": "right",
-        "id": 23
-      },
-      {
-        "text": [
-          "You too, Nancy! Bye now."
-        ],
-        "speaker": "local party",
-        "start_time": 125,
-        "end_time": 128,
-        "channel": "left",
-        "id": 24
-      },
-      {
-        "text": [
-          "Goodbye!"
-        ],
-        "speaker": "remote party",
-        "start_time": 128,
-        "end_time": 130,
-        "channel": "right",
-        "id": 25
-      }
-    ]
-  }
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5a348a4558c54636835dd4a0c1587ee9",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-5a348a4558c54636835dd4a0c1587ee9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "call_id": "0762f5468c624780834b74304340fd05",
+      "caller_id_number": "+12065552020",
+      "caller_id_name": "Nancy Cooper",
+      "callee_id_number": "+12065551234"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Michael, my name is Nancy Cooper. I found your number through a Google search.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Great to hear from you, Nancy! What can I assist you with today?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I\u2019m looking for reliable diagnostics for my car. It\u2019s been making some strange noises lately.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that can be. We offer full vehicle diagnostics that last about an hour.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "How much does that cost?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "The full vehicle diagnostics are priced at $100.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 38,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. When can I bring it in?",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We\u2019re open Monday through Friday from 8 AM to 6 PM, and Saturday from 9 AM to 4 PM. When would you like to come in?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Would next Tuesday work for you?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check\u2026 Yes, we have availability. What time were you thinking?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How about 10 AM?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I\u2019ll schedule you for 10 AM next Tuesday.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 68,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great, thank you! Will I need to leave my car there for a while?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, typically for diagnostics, we might need it for the hour, and we'll call you with the results.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Alright, sounds good. Also, do you do any repairs if needed?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! We can handle a range of repairs, from engine issues to brake systems.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That\u2019s good to know! I\u2019ll definitely need to discuss that after the diagnostics.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Sure thing. If any repairs are needed, we can provide you with a quote right after the diagnostics.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Awesome! I appreciate your help, Michael.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem at all, Nancy! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that\u2019s it for now. Thank you!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You\u2019re welcome! I look forward to seeing you next Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks, Michael! Have a good day.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, Nancy! Bye now.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        }
+      ],
+      "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today? Hi Michael, my name is Nancy Cooper. I found your number through a Google search. Great to hear from you, Nancy! What can I assist you with today? I\u2019m looking for reliable diagnostics for my car. It\u2019s been making some strange noises lately. I understand how concerning that can be. We offer full vehicle diagnostics that last about an hour. How much does that cost? The full vehicle diagnostics are priced at $100. Okay, that sounds reasonable. When can I bring it in? We\u2019re open Monday through Friday from 8 AM to 6 PM, and Saturday from 9 AM to 4 PM. When would you like to come in? Would next Tuesday work for you? Let me check\u2026 Yes, we have availability. What time were you thinking? How about 10 AM? Perfect! I\u2019ll schedule you for 10 AM next Tuesday. Great, thank you! Will I need to leave my car there for a while? Yes, typically for diagnostics, we might need it for the hour, and we'll call you with the results. Alright, sounds good. Also, do you do any repairs if needed? Absolutely! We can handle a range of repairs, from engine issues to brake systems. That\u2019s good to know! I\u2019ll definitely need to discuss that after the diagnostics. Sure thing. If any repairs are needed, we can provide you with a quote right after the diagnostics. Awesome! I appreciate your help, Michael. No problem at all, Nancy! Is there anything else I can assist you with today? No, that\u2019s it for now. Thank you! You\u2019re welcome! I look forward to seeing you next Tuesday at 10 AM. Thanks, Michael! Have a good day. You too, Nancy! Bye now. Goodbye!",
+      "summary": "",
+      "duration": 130,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
 }

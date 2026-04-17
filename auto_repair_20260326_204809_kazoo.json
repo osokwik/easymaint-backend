@@ -1,305 +1,268 @@
 {
-  "call_record_id": "202603-28c0d79942b94712bf0657631810d530",
-  "metadata": {
-    "direction": "inbound",
-    "duration": 144,
-    "call_id": "10a0d7074f6b498cbc92d0e11b521c57",
-    "caller_id_number": "+12065557999",
-    "caller_id_name": "Edward Turner",
-    "callee_id_number": "+12065551234"
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
   },
-  "transcription": {
-    "segments": [
-      {
-        "text": [
-          "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?"
-        ],
-        "speaker": "local party",
-        "start_time": 0,
-        "end_time": 3,
-        "channel": "left",
-        "id": 0
-      },
-      {
-        "text": [
-          "Hi Michael, my name is Edward Turner. I saw your advertisement at a local event and wanted to inquire about your loyalty program options."
-        ],
-        "speaker": "remote party",
-        "start_time": 3,
-        "end_time": 8,
-        "channel": "right",
-        "id": 1
-      },
-      {
-        "text": [
-          "Great to hear from you, Edward! I appreciate your interest. We do have a loyalty program that rewards regular customers."
-        ],
-        "speaker": "local party",
-        "start_time": 8,
-        "end_time": 12,
-        "channel": "left",
-        "id": 2
-      },
-      {
-        "text": [
-          "Oh, that sounds interesting. Can you tell me how it works?"
-        ],
-        "speaker": "remote party",
-        "start_time": 12,
-        "end_time": 17,
-        "channel": "right",
-        "id": 3
-      },
-      {
-        "text": [
-          "Absolutely! For every $100 you spend at our shop, you earn a $10 credit towards your next service. It's a great way to save on future repairs."
-        ],
-        "speaker": "local party",
-        "start_time": 17,
-        "end_time": 25,
-        "channel": "left",
-        "id": 4
-      },
-      {
-        "text": [
-          "That sounds really beneficial! Are there any specific services that qualify for this program?"
-        ],
-        "speaker": "remote party",
-        "start_time": 25,
-        "end_time": 30,
-        "channel": "right",
-        "id": 5
-      },
-      {
-        "text": [
-          "Yes, it applies to most of our services, including oil changes, tire rotations, and more complex repairs."
-        ],
-        "speaker": "local party",
-        "start_time": 30,
-        "end_time": 35,
-        "channel": "left",
-        "id": 6
-      },
-      {
-        "text": [
-          "Perfect! I usually get my oil changed every few months. How much do you charge for that?"
-        ],
-        "speaker": "remote party",
-        "start_time": 35,
-        "end_time": 42,
-        "channel": "right",
-        "id": 7
-      },
-      {
-        "text": [
-          "Our oil change service ranges from $40 to $60, and it includes up to 5 quarts of oil and a new filter."
-        ],
-        "speaker": "local party",
-        "start_time": 42,
-        "end_time": 47,
-        "channel": "left",
-        "id": 8
-      },
-      {
-        "text": [
-          "That\u2019s pretty reasonable. What about the waiting time for an oil change?"
-        ],
-        "speaker": "remote party",
-        "start_time": 47,
-        "end_time": 52,
-        "channel": "right",
-        "id": 9
-      },
-      {
-        "text": [
-          "Typically, it takes about 30 minutes to complete an oil change."
-        ],
-        "speaker": "local party",
-        "start_time": 52,
-        "end_time": 56,
-        "channel": "left",
-        "id": 10
-      },
-      {
-        "text": [
-          "Great! I might want to schedule that soon. Are there any other promotions currently available?"
-        ],
-        "speaker": "remote party",
-        "start_time": 56,
-        "end_time": 62,
-        "channel": "right",
-        "id": 11
-      },
-      {
-        "text": [
-          "At the moment, we\u2019re also offering a discount on tire rotations for loyalty members\u2014just $20 instead of the regular $25."
-        ],
-        "speaker": "local party",
-        "start_time": 62,
-        "end_time": 70,
-        "channel": "left",
-        "id": 12
-      },
-      {
-        "text": [
-          "That's a good deal! I could definitely use a tire rotation soon as well."
-        ],
-        "speaker": "remote party",
-        "start_time": 70,
-        "end_time": 76,
-        "channel": "right",
-        "id": 13
-      },
-      {
-        "text": [
-          "I'm glad you think so! Would you like to schedule an appointment for either of those services?"
-        ],
-        "speaker": "local party",
-        "start_time": 76,
-        "end_time": 81,
-        "channel": "left",
-        "id": 14
-      },
-      {
-        "text": [
-          "Yes, I think I\u2019d like to get both done. Can you do that?"
-        ],
-        "speaker": "remote party",
-        "start_time": 81,
-        "end_time": 87,
-        "channel": "right",
-        "id": 15
-      },
-      {
-        "text": [
-          "Sure, how about we start with the oil change and then do the tire rotation right after?"
-        ],
-        "speaker": "local party",
-        "start_time": 87,
-        "end_time": 92,
-        "channel": "left",
-        "id": 16
-      },
-      {
-        "text": [
-          "Sounds good! What dates do you have available?"
-        ],
-        "speaker": "remote party",
-        "start_time": 92,
-        "end_time": 97,
-        "channel": "right",
-        "id": 17
-      },
-      {
-        "text": [
-          "We have openings tomorrow morning or Thursday afternoon. Which works better for you?"
-        ],
-        "speaker": "local party",
-        "start_time": 97,
-        "end_time": 105,
-        "channel": "left",
-        "id": 18
-      },
-      {
-        "text": [
-          "Tomorrow morning works for me. What time?"
-        ],
-        "speaker": "remote party",
-        "start_time": 105,
-        "end_time": 110,
-        "channel": "right",
-        "id": 19
-      },
-      {
-        "text": [
-          "We can fit you in at 9 AM if that works."
-        ],
-        "speaker": "local party",
-        "start_time": 110,
-        "end_time": 114,
-        "channel": "left",
-        "id": 20
-      },
-      {
-        "text": [
-          "Yes, that\u2019s perfect!"
-        ],
-        "speaker": "remote party",
-        "start_time": 114,
-        "end_time": 118,
-        "channel": "right",
-        "id": 21
-      },
-      {
-        "text": [
-          "Alright, I\u2019ll put you down for tomorrow at 9 AM for an oil change and tire rotation."
-        ],
-        "speaker": "local party",
-        "start_time": 118,
-        "end_time": 122,
-        "channel": "left",
-        "id": 22
-      },
-      {
-        "text": [
-          "Thank you! Do I need to bring anything?"
-        ],
-        "speaker": "remote party",
-        "start_time": 122,
-        "end_time": 126,
-        "channel": "right",
-        "id": 23
-      },
-      {
-        "text": [
-          "Just your vehicle and any loyalty program details if you have them."
-        ],
-        "speaker": "local party",
-        "start_time": 126,
-        "end_time": 130,
-        "channel": "left",
-        "id": 24
-      },
-      {
-        "text": [
-          "Got it. I appreciate your help, Michael!"
-        ],
-        "speaker": "remote party",
-        "start_time": 130,
-        "end_time": 134,
-        "channel": "right",
-        "id": 25
-      },
-      {
-        "text": [
-          "You're welcome, Edward! We look forward to seeing you tomorrow."
-        ],
-        "speaker": "local party",
-        "start_time": 134,
-        "end_time": 138,
-        "channel": "left",
-        "id": 26
-      },
-      {
-        "text": [
-          "Thanks! Have a great day!"
-        ],
-        "speaker": "remote party",
-        "start_time": 138,
-        "end_time": 142,
-        "channel": "right",
-        "id": 27
-      },
-      {
-        "text": [
-          "You too! Bye now."
-        ],
-        "speaker": "local party",
-        "start_time": 142,
-        "end_time": 144,
-        "channel": "left",
-        "id": 28
-      }
-    ]
-  }
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-28c0d79942b94712bf0657631810d530",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-28c0d79942b94712bf0657631810d530",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 144,
+      "call_id": "10a0d7074f6b498cbc92d0e11b521c57",
+      "caller_id_number": "+12065557999",
+      "caller_id_name": "Edward Turner",
+      "callee_id_number": "+12065551234"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Michael, my name is Edward Turner. I saw your advertisement at a local event and wanted to inquire about your loyalty program options.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Great to hear from you, Edward! I appreciate your interest. We do have a loyalty program that rewards regular customers.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, that sounds interesting. Can you tell me how it works?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely! For every $100 you spend at our shop, you earn a $10 credit towards your next service. It's a great way to save on future repairs.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds really beneficial! Are there any specific services that qualify for this program?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, it applies to most of our services, including oil changes, tire rotations, and more complex repairs.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Perfect! I usually get my oil changed every few months. How much do you charge for that?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our oil change service ranges from $40 to $60, and it includes up to 5 quarts of oil and a new filter.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That\u2019s pretty reasonable. What about the waiting time for an oil change?",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Typically, it takes about 30 minutes to complete an oil change.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! I might want to schedule that soon. Are there any other promotions currently available?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "At the moment, we\u2019re also offering a discount on tire rotations for loyalty members\u2014just $20 instead of the regular $25.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That's a good deal! I could definitely use a tire rotation soon as well.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I'm glad you think so! Would you like to schedule an appointment for either of those services?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I think I\u2019d like to get both done. Can you do that?",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure, how about we start with the oil change and then do the tire rotation right after?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good! What dates do you have available?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We have openings tomorrow morning or Thursday afternoon. Which works better for you?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Tomorrow morning works for me. What time?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We can fit you in at 9 AM if that works.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that\u2019s perfect!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Alright, I\u2019ll put you down for tomorrow at 9 AM for an oil change and tire rotation.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! Do I need to bring anything?",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Just your vehicle and any loyalty program details if you have them.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Got it. I appreciate your help, Michael!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, Edward! We look forward to seeing you tomorrow.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks! Have a great day!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too! Bye now.",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 144,
+          "channel": "left",
+          "id": 28
+        }
+      ],
+      "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today? Hi Michael, my name is Edward Turner. I saw your advertisement at a local event and wanted to inquire about your loyalty program options. Great to hear from you, Edward! I appreciate your interest. We do have a loyalty program that rewards regular customers. Oh, that sounds interesting. Can you tell me how it works? Absolutely! For every $100 you spend at our shop, you earn a $10 credit towards your next service. It's a great way to save on future repairs. That sounds really beneficial! Are there any specific services that qualify for this program? Yes, it applies to most of our services, including oil changes, tire rotations, and more complex repairs. Perfect! I usually get my oil changed every few months. How much do you charge for that? Our oil change service ranges from $40 to $60, and it includes up to 5 quarts of oil and a new filter. That\u2019s pretty reasonable. What about the waiting time for an oil change? Typically, it takes about 30 minutes to complete an oil change. Great! I might want to schedule that soon. Are there any other promotions currently available? At the moment, we\u2019re also offering a discount on tire rotations for loyalty members\u2014just $20 instead of the regular $25. That's a good deal! I could definitely use a tire rotation soon as well. I'm glad you think so! Would you like to schedule an appointment for either of those services? Yes, I think I\u2019d like to get both done. Can you do that? Sure, how about we start with the oil change and then do the tire rotation right after? Sounds good! What dates do you have available? We have openings tomorrow morning or Thursday afternoon. Which works better for you? Tomorrow morning works for me. What time? We can fit you in at 9 AM if that works. Yes, that\u2019s perfect! Alright, I\u2019ll put you down for tomorrow at 9 AM for an oil change and tire rotation. Thank you! Do I need to bring anything? Just your vehicle and any loyalty program details if you have them. Got it. I appreciate your help, Michael! You're welcome, Edward! We look forward to seeing you tomorrow. Thanks! Have a great day! You too! Bye now.",
+      "summary": "",
+      "duration": 144,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
 }

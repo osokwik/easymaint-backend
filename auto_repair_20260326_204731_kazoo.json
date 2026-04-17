@@ -1,305 +1,268 @@
 {
-  "call_record_id": "202603-cf4f02d71372493dab265bd8c2518c08",
-  "metadata": {
-    "direction": "inbound",
-    "duration": 128,
-    "call_id": "c154811db0ce44d9bcab4b694c53763d",
-    "caller_id_number": "+12065555678",
-    "caller_id_name": "Paul Wright",
-    "callee_id_number": "+12065551234"
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
   },
-  "transcription": {
-    "segments": [
-      {
-        "text": [
-          "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?"
-        ],
-        "speaker": "local party",
-        "start_time": 0,
-        "end_time": 3,
-        "channel": "left",
-        "id": 0
-      },
-      {
-        "text": [
-          "Hi Michael, this is Paul Wright. I hope you\u2019re doing well!"
-        ],
-        "speaker": "remote party",
-        "start_time": 3,
-        "end_time": 8,
-        "channel": "right",
-        "id": 1
-      },
-      {
-        "text": [
-          "Hi Paul! I'm doing great, thanks for asking. How about you?"
-        ],
-        "speaker": "local party",
-        "start_time": 8,
-        "end_time": 12,
-        "channel": "left",
-        "id": 2
-      },
-      {
-        "text": [
-          "I'm doing well, thanks! I wanted to check on scheduling an oil change for my car."
-        ],
-        "speaker": "remote party",
-        "start_time": 12,
-        "end_time": 16,
-        "channel": "right",
-        "id": 3
-      },
-      {
-        "text": [
-          "Sure thing! When were you thinking of coming in?"
-        ],
-        "speaker": "local party",
-        "start_time": 16,
-        "end_time": 20,
-        "channel": "left",
-        "id": 4
-      },
-      {
-        "text": [
-          "How about this Saturday? Is that possible?"
-        ],
-        "speaker": "remote party",
-        "start_time": 20,
-        "end_time": 25,
-        "channel": "right",
-        "id": 5
-      },
-      {
-        "text": [
-          "Yes, we\u2019re open from 9 AM to 4 PM on Saturdays. What time works for you?"
-        ],
-        "speaker": "local party",
-        "start_time": 25,
-        "end_time": 29,
-        "channel": "left",
-        "id": 6
-      },
-      {
-        "text": [
-          "Could I do 10 AM?"
-        ],
-        "speaker": "remote party",
-        "start_time": 29,
-        "end_time": 35,
-        "channel": "right",
-        "id": 7
-      },
-      {
-        "text": [
-          "Absolutely! I\u2019ll schedule you for 10 AM on Saturday for an oil change."
-        ],
-        "speaker": "local party",
-        "start_time": 35,
-        "end_time": 39,
-        "channel": "left",
-        "id": 8
-      },
-      {
-        "text": [
-          "Great! Just to confirm, is it still $40 to $60 for the oil change?"
-        ],
-        "speaker": "remote party",
-        "start_time": 39,
-        "end_time": 45,
-        "channel": "right",
-        "id": 9
-      },
-      {
-        "text": [
-          "Yes, it is, depending on the type of oil we use. I can explain that more when you come in."
-        ],
-        "speaker": "local party",
-        "start_time": 45,
-        "end_time": 50,
-        "channel": "left",
-        "id": 10
-      },
-      {
-        "text": [
-          "Perfect! I also wanted to ask about the brake inspection. My brakes have been making a weird sound."
-        ],
-        "speaker": "remote party",
-        "start_time": 50,
-        "end_time": 54,
-        "channel": "right",
-        "id": 11
-      },
-      {
-        "text": [
-          "A brake inspection is $30 and takes about 30 minutes. Would you like to add that to your appointment?"
-        ],
-        "speaker": "local party",
-        "start_time": 54,
-        "end_time": 58,
-        "channel": "left",
-        "id": 12
-      },
-      {
-        "text": [
-          "Yes, please! That sounds like a good idea."
-        ],
-        "speaker": "remote party",
-        "start_time": 58,
-        "end_time": 63,
-        "channel": "right",
-        "id": 13
-      },
-      {
-        "text": [
-          "Great! So we have you down for an oil change and brake inspection at 10 AM on Saturday."
-        ],
-        "speaker": "local party",
-        "start_time": 63,
-        "end_time": 67,
-        "channel": "left",
-        "id": 14
-      },
-      {
-        "text": [
-          "Awesome! By the way, could you give me a rough estimate for any potential brake repairs?"
-        ],
-        "speaker": "remote party",
-        "start_time": 67,
-        "end_time": 72,
-        "channel": "right",
-        "id": 15
-      },
-      {
-        "text": [
-          "Brake repairs can range widely, typically from $150 to $400 depending on the issue."
-        ],
-        "speaker": "local party",
-        "start_time": 72,
-        "end_time": 77,
-        "channel": "left",
-        "id": 16
-      },
-      {
-        "text": [
-          "Okay, thanks for the info. I appreciate that."
-        ],
-        "speaker": "remote party",
-        "start_time": 77,
-        "end_time": 82,
-        "channel": "right",
-        "id": 17
-      },
-      {
-        "text": [
-          "Of course! If we find any problems, I\u2019ll provide a detailed quote before proceeding."
-        ],
-        "speaker": "local party",
-        "start_time": 82,
-        "end_time": 87,
-        "channel": "left",
-        "id": 18
-      },
-      {
-        "text": [
-          "Sounds good. I like how you always explain everything in detail."
-        ],
-        "speaker": "remote party",
-        "start_time": 87,
-        "end_time": 92,
-        "channel": "right",
-        "id": 19
-      },
-      {
-        "text": [
-          "I\u2019m glad to hear that, Paul! Customer education is a priority for us."
-        ],
-        "speaker": "local party",
-        "start_time": 92,
-        "end_time": 97,
-        "channel": "left",
-        "id": 20
-      },
-      {
-        "text": [
-          "One last thing, do you have any recommendations for tire rotation soon?"
-        ],
-        "speaker": "remote party",
-        "start_time": 97,
-        "end_time": 102,
-        "channel": "right",
-        "id": 21
-      },
-      {
-        "text": [
-          "Yes, we recommend having your tires rotated every 5,000 to 7,000 miles. It\u2019s $25 here."
-        ],
-        "speaker": "local party",
-        "start_time": 102,
-        "end_time": 107,
-        "channel": "left",
-        "id": 22
-      },
-      {
-        "text": [
-          "That sounds reasonable. Maybe I can do that next time?"
-        ],
-        "speaker": "remote party",
-        "start_time": 107,
-        "end_time": 111,
-        "channel": "right",
-        "id": 23
-      },
-      {
-        "text": [
-          "Absolutely! We can schedule that during your next visit."
-        ],
-        "speaker": "local party",
-        "start_time": 111,
-        "end_time": 114,
-        "channel": "left",
-        "id": 24
-      },
-      {
-        "text": [
-          "Perfect. Thanks, Michael! I\u2019ll see you on Saturday!"
-        ],
-        "speaker": "remote party",
-        "start_time": 114,
-        "end_time": 119,
-        "channel": "right",
-        "id": 25
-      },
-      {
-        "text": [
-          "You\u2019re welcome, Paul! Looking forward to seeing you then. Have a great day!"
-        ],
-        "speaker": "local party",
-        "start_time": 119,
-        "end_time": 123,
-        "channel": "left",
-        "id": 26
-      },
-      {
-        "text": [
-          "You too! Bye!"
-        ],
-        "speaker": "remote party",
-        "start_time": 123,
-        "end_time": 126,
-        "channel": "right",
-        "id": 27
-      },
-      {
-        "text": [
-          "Bye!"
-        ],
-        "speaker": "local party",
-        "start_time": 126,
-        "end_time": 128,
-        "channel": "left",
-        "id": 28
-      }
-    ]
-  }
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-cf4f02d71372493dab265bd8c2518c08",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-cf4f02d71372493dab265bd8c2518c08",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "call_id": "c154811db0ce44d9bcab4b694c53763d",
+      "caller_id_number": "+12065555678",
+      "caller_id_name": "Paul Wright",
+      "callee_id_number": "+12065551234"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Michael, this is Paul Wright. I hope you\u2019re doing well!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Paul! I'm doing great, thanks for asking. How about you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm doing well, thanks! I wanted to check on scheduling an oil change for my car.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Sure thing! When were you thinking of coming in?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "How about this Saturday? Is that possible?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, we\u2019re open from 9 AM to 4 PM on Saturdays. What time works for you?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Could I do 10 AM?",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely! I\u2019ll schedule you for 10 AM on Saturday for an oil change.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Great! Just to confirm, is it still $40 to $60 for the oil change?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, it is, depending on the type of oil we use. I can explain that more when you come in.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Perfect! I also wanted to ask about the brake inspection. My brakes have been making a weird sound.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "A brake inspection is $30 and takes about 30 minutes. Would you like to add that to your appointment?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please! That sounds like a good idea.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! So we have you down for an oil change and brake inspection at 10 AM on Saturday.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Awesome! By the way, could you give me a rough estimate for any potential brake repairs?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Brake repairs can range widely, typically from $150 to $400 depending on the issue.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, thanks for the info. I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! If we find any problems, I\u2019ll provide a detailed quote before proceeding.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good. I like how you always explain everything in detail.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I\u2019m glad to hear that, Paul! Customer education is a priority for us.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "One last thing, do you have any recommendations for tire rotation soon?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, we recommend having your tires rotated every 5,000 to 7,000 miles. It\u2019s $25 here.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds reasonable. Maybe I can do that next time?",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely! We can schedule that during your next visit.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect. Thanks, Michael! I\u2019ll see you on Saturday!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You\u2019re welcome, Paul! Looking forward to seeing you then. Have a great day!",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 123,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too! Bye!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 126,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 128,
+          "channel": "left",
+          "id": 28
+        }
+      ],
+      "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today? Hi Michael, this is Paul Wright. I hope you\u2019re doing well! Hi Paul! I'm doing great, thanks for asking. How about you? I'm doing well, thanks! I wanted to check on scheduling an oil change for my car. Sure thing! When were you thinking of coming in? How about this Saturday? Is that possible? Yes, we\u2019re open from 9 AM to 4 PM on Saturdays. What time works for you? Could I do 10 AM? Absolutely! I\u2019ll schedule you for 10 AM on Saturday for an oil change. Great! Just to confirm, is it still $40 to $60 for the oil change? Yes, it is, depending on the type of oil we use. I can explain that more when you come in. Perfect! I also wanted to ask about the brake inspection. My brakes have been making a weird sound. A brake inspection is $30 and takes about 30 minutes. Would you like to add that to your appointment? Yes, please! That sounds like a good idea. Great! So we have you down for an oil change and brake inspection at 10 AM on Saturday. Awesome! By the way, could you give me a rough estimate for any potential brake repairs? Brake repairs can range widely, typically from $150 to $400 depending on the issue. Okay, thanks for the info. I appreciate that. Of course! If we find any problems, I\u2019ll provide a detailed quote before proceeding. Sounds good. I like how you always explain everything in detail. I\u2019m glad to hear that, Paul! Customer education is a priority for us. One last thing, do you have any recommendations for tire rotation soon? Yes, we recommend having your tires rotated every 5,000 to 7,000 miles. It\u2019s $25 here. That sounds reasonable. Maybe I can do that next time? Absolutely! We can schedule that during your next visit. Perfect. Thanks, Michael! I\u2019ll see you on Saturday! You\u2019re welcome, Paul! Looking forward to seeing you then. Have a great day! You too! Bye! Bye!",
+      "summary": "",
+      "duration": 128,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
 }

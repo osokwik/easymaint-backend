@@ -1,305 +1,268 @@
 {
-  "call_record_id": "202603-d818bd23b9b649dd96b75ddb2a8c6c4f",
-  "metadata": {
-    "direction": "inbound",
-    "duration": 128,
-    "call_id": "4a20c92246d44bf18ae438007dfc1527",
-    "caller_id_number": "+12065550987",
-    "caller_id_name": "Alex Murphy",
-    "callee_id_number": "+12065551234"
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
   },
-  "transcription": {
-    "segments": [
-      {
-        "text": [
-          "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?"
-        ],
-        "speaker": "local party",
-        "start_time": 0,
-        "end_time": 3,
-        "channel": "left",
-        "id": 0
-      },
-      {
-        "text": [
-          "Hi, Michael! My name is Alex Murphy. I'm interested in transmission services for my car."
-        ],
-        "speaker": "remote party",
-        "start_time": 3,
-        "end_time": 8,
-        "channel": "right",
-        "id": 1
-      },
-      {
-        "text": [
-          "Great to hear from you, Alex! We do offer transmission repair services. Can you tell me a bit more about your vehicle?"
-        ],
-        "speaker": "local party",
-        "start_time": 8,
-        "end_time": 12,
-        "channel": "left",
-        "id": 2
-      },
-      {
-        "text": [
-          "Sure, I have a 2015 Honda Accord. It's been having trouble shifting gears lately."
-        ],
-        "speaker": "remote party",
-        "start_time": 12,
-        "end_time": 18,
-        "channel": "right",
-        "id": 3
-      },
-      {
-        "text": [
-          "I see. That can definitely be frustrating. Have you noticed any warning lights on the dashboard?"
-        ],
-        "speaker": "local party",
-        "start_time": 18,
-        "end_time": 24,
-        "channel": "left",
-        "id": 4
-      },
-      {
-        "text": [
-          "Yes, the check engine light has been on for a while now."
-        ],
-        "speaker": "remote party",
-        "start_time": 24,
-        "end_time": 28,
-        "channel": "right",
-        "id": 5
-      },
-      {
-        "text": [
-          "That\u2019s often a sign that a diagnostic is needed. We offer a full vehicle diagnostic for $100."
-        ],
-        "speaker": "local party",
-        "start_time": 28,
-        "end_time": 32,
-        "channel": "left",
-        "id": 6
-      },
-      {
-        "text": [
-          "Okay, that sounds reasonable. How long does that usually take?"
-        ],
-        "speaker": "remote party",
-        "start_time": 32,
-        "end_time": 37,
-        "channel": "right",
-        "id": 7
-      },
-      {
-        "text": [
-          "It typically takes about an hour. After that, we can provide you with a detailed report."
-        ],
-        "speaker": "local party",
-        "start_time": 37,
-        "end_time": 41,
-        "channel": "left",
-        "id": 8
-      },
-      {
-        "text": [
-          "Perfect. What are your hours?"
-        ],
-        "speaker": "remote party",
-        "start_time": 41,
-        "end_time": 46,
-        "channel": "right",
-        "id": 9
-      },
-      {
-        "text": [
-          "We\u2019re open Monday to Friday from 8 AM to 6 PM, and Saturday from 9 AM to 4 PM."
-        ],
-        "speaker": "local party",
-        "start_time": 46,
-        "end_time": 50,
-        "channel": "left",
-        "id": 10
-      },
-      {
-        "text": [
-          "Got it. I can probably drop it off this Saturday."
-        ],
-        "speaker": "remote party",
-        "start_time": 50,
-        "end_time": 54,
-        "channel": "right",
-        "id": 11
-      },
-      {
-        "text": [
-          "That works for us! Would you like me to schedule that appointment for you?"
-        ],
-        "speaker": "local party",
-        "start_time": 54,
-        "end_time": 58,
-        "channel": "left",
-        "id": 12
-      },
-      {
-        "text": [
-          "Yes, please. What time is available?"
-        ],
-        "speaker": "remote party",
-        "start_time": 58,
-        "end_time": 62,
-        "channel": "right",
-        "id": 13
-      },
-      {
-        "text": [
-          "We can do 9 AM or 10 AM. Which one would you prefer?"
-        ],
-        "speaker": "local party",
-        "start_time": 62,
-        "end_time": 67,
-        "channel": "left",
-        "id": 14
-      },
-      {
-        "text": [
-          "Let\u2019s go with 10 AM."
-        ],
-        "speaker": "remote party",
-        "start_time": 67,
-        "end_time": 72,
-        "channel": "right",
-        "id": 15
-      },
-      {
-        "text": [
-          "Great! I\u2019ll put you down for a diagnostic on Saturday at 10 AM."
-        ],
-        "speaker": "local party",
-        "start_time": 72,
-        "end_time": 76,
-        "channel": "left",
-        "id": 16
-      },
-      {
-        "text": [
-          "Thank you! Also, how long do transmission repairs usually take?"
-        ],
-        "speaker": "remote party",
-        "start_time": 76,
-        "end_time": 80,
-        "channel": "right",
-        "id": 17
-      },
-      {
-        "text": [
-          "It really depends on the issue, but repairs can range from 2 to 5 hours."
-        ],
-        "speaker": "local party",
-        "start_time": 80,
-        "end_time": 85,
-        "channel": "left",
-        "id": 18
-      },
-      {
-        "text": [
-          "And pricing?"
-        ],
-        "speaker": "remote party",
-        "start_time": 85,
-        "end_time": 89,
-        "channel": "right",
-        "id": 19
-      },
-      {
-        "text": [
-          "Transmission repairs can range from $500 to $2,500, depending on the repairs needed."
-        ],
-        "speaker": "local party",
-        "start_time": 89,
-        "end_time": 94,
-        "channel": "left",
-        "id": 20
-      },
-      {
-        "text": [
-          "I see. That\u2019s a wide range. Will you provide an estimate after the diagnostic?"
-        ],
-        "speaker": "remote party",
-        "start_time": 94,
-        "end_time": 99,
-        "channel": "right",
-        "id": 21
-      },
-      {
-        "text": [
-          "Absolutely! Once we complete the diagnostic, we\u2019ll give you a detailed estimate before any work begins."
-        ],
-        "speaker": "local party",
-        "start_time": 99,
-        "end_time": 103,
-        "channel": "left",
-        "id": 22
-      },
-      {
-        "text": [
-          "That sounds good to me. Thank you for your help, Michael."
-        ],
-        "speaker": "remote party",
-        "start_time": 103,
-        "end_time": 108,
-        "channel": "right",
-        "id": 23
-      },
-      {
-        "text": [
-          "You\u2019re welcome, Alex! Is there anything else I can help you with today?"
-        ],
-        "speaker": "local party",
-        "start_time": 108,
-        "end_time": 112,
-        "channel": "left",
-        "id": 24
-      },
-      {
-        "text": [
-          "No, that's all for now. I appreciate it!"
-        ],
-        "speaker": "remote party",
-        "start_time": 112,
-        "end_time": 116,
-        "channel": "right",
-        "id": 25
-      },
-      {
-        "text": [
-          "Thank you for calling Speedy Auto Repair, Alex. We look forward to seeing you on Saturday!"
-        ],
-        "speaker": "local party",
-        "start_time": 116,
-        "end_time": 121,
-        "channel": "left",
-        "id": 26
-      },
-      {
-        "text": [
-          "See you then!"
-        ],
-        "speaker": "remote party",
-        "start_time": 121,
-        "end_time": 125,
-        "channel": "right",
-        "id": 27
-      },
-      {
-        "text": [
-          "Take care!"
-        ],
-        "speaker": "local party",
-        "start_time": 125,
-        "end_time": 128,
-        "channel": "left",
-        "id": 28
-      }
-    ]
-  }
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d818bd23b9b649dd96b75ddb2a8c6c4f",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-d818bd23b9b649dd96b75ddb2a8c6c4f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "call_id": "4a20c92246d44bf18ae438007dfc1527",
+      "caller_id_number": "+12065550987",
+      "caller_id_name": "Alex Murphy",
+      "callee_id_number": "+12065551234"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Michael! My name is Alex Murphy. I'm interested in transmission services for my car.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Great to hear from you, Alex! We do offer transmission repair services. Can you tell me a bit more about your vehicle?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, I have a 2015 Honda Accord. It's been having trouble shifting gears lately.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. That can definitely be frustrating. Have you noticed any warning lights on the dashboard?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, the check engine light has been on for a while now.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That\u2019s often a sign that a diagnostic is needed. We offer a full vehicle diagnostic for $100.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. How long does that usually take?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It typically takes about an hour. After that, we can provide you with a detailed report.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Perfect. What are your hours?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We\u2019re open Monday to Friday from 8 AM to 6 PM, and Saturday from 9 AM to 4 PM.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Got it. I can probably drop it off this Saturday.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That works for us! Would you like me to schedule that appointment for you?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please. What time is available?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can do 9 AM or 10 AM. Which one would you prefer?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Let\u2019s go with 10 AM.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I\u2019ll put you down for a diagnostic on Saturday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you! Also, how long do transmission repairs usually take?",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It really depends on the issue, but repairs can range from 2 to 5 hours.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "And pricing?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Transmission repairs can range from $500 to $2,500, depending on the repairs needed.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I see. That\u2019s a wide range. Will you provide an estimate after the diagnostic?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! Once we complete the diagnostic, we\u2019ll give you a detailed estimate before any work begins.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds good to me. Thank you for your help, Michael.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You\u2019re welcome, Alex! Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that's all for now. I appreciate it!",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling Speedy Auto Repair, Alex. We look forward to seeing you on Saturday!",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "See you then!",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Take care!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 28
+        }
+      ],
+      "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. How can I help you today? Hi, Michael! My name is Alex Murphy. I'm interested in transmission services for my car. Great to hear from you, Alex! We do offer transmission repair services. Can you tell me a bit more about your vehicle? Sure, I have a 2015 Honda Accord. It's been having trouble shifting gears lately. I see. That can definitely be frustrating. Have you noticed any warning lights on the dashboard? Yes, the check engine light has been on for a while now. That\u2019s often a sign that a diagnostic is needed. We offer a full vehicle diagnostic for $100. Okay, that sounds reasonable. How long does that usually take? It typically takes about an hour. After that, we can provide you with a detailed report. Perfect. What are your hours? We\u2019re open Monday to Friday from 8 AM to 6 PM, and Saturday from 9 AM to 4 PM. Got it. I can probably drop it off this Saturday. That works for us! Would you like me to schedule that appointment for you? Yes, please. What time is available? We can do 9 AM or 10 AM. Which one would you prefer? Let\u2019s go with 10 AM. Great! I\u2019ll put you down for a diagnostic on Saturday at 10 AM. Thank you! Also, how long do transmission repairs usually take? It really depends on the issue, but repairs can range from 2 to 5 hours. And pricing? Transmission repairs can range from $500 to $2,500, depending on the repairs needed. I see. That\u2019s a wide range. Will you provide an estimate after the diagnostic? Absolutely! Once we complete the diagnostic, we\u2019ll give you a detailed estimate before any work begins. That sounds good to me. Thank you for your help, Michael. You\u2019re welcome, Alex! Is there anything else I can help you with today? No, that's all for now. I appreciate it! Thank you for calling Speedy Auto Repair, Alex. We look forward to seeing you on Saturday! See you then! Take care!",
+      "summary": "",
+      "duration": 128,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
 }

@@ -1,285 +1,252 @@
 {
-  "call_record_id": "202603-f5d9bd9e05bf40ba843e4548dd996c3b",
-  "metadata": {
-    "direction": "inbound",
-    "duration": 116,
-    "call_id": "6d5c4ab78d5d4496ba5360d74ef512a1",
-    "caller_id_number": "+12065555678",
-    "caller_id_name": "Paul Wright",
-    "callee_id_number": "+12065551234"
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
   },
-  "transcription": {
-    "segments": [
-      {
-        "text": [
-          "Thank you for calling Speedy Auto Repair, this is Michael. How can I help you today?"
-        ],
-        "speaker": "local party",
-        "start_time": 0,
-        "end_time": 3,
-        "channel": "left",
-        "id": 0
-      },
-      {
-        "text": [
-          "Hi Michael, this is Paul Wright. I was hoping to check on a service for my car."
-        ],
-        "speaker": "remote party",
-        "start_time": 3,
-        "end_time": 8,
-        "channel": "right",
-        "id": 1
-      },
-      {
-        "text": [
-          "Hi Paul! Great to hear from you again. What can I assist you with today?"
-        ],
-        "speaker": "local party",
-        "start_time": 8,
-        "end_time": 12,
-        "channel": "left",
-        "id": 2
-      },
-      {
-        "text": [
-          "I need to get an oil change and a brake inspection. It\u2019s been a while since my last visit."
-        ],
-        "speaker": "remote party",
-        "start_time": 12,
-        "end_time": 18,
-        "channel": "right",
-        "id": 3
-      },
-      {
-        "text": [
-          "Sure thing! Our oil change is between $40 to $60, and the brake inspection is $30."
-        ],
-        "speaker": "local party",
-        "start_time": 18,
-        "end_time": 22,
-        "channel": "left",
-        "id": 4
-      },
-      {
-        "text": [
-          "Sounds good. How long will both services take?"
-        ],
-        "speaker": "remote party",
-        "start_time": 22,
-        "end_time": 28,
-        "channel": "right",
-        "id": 5
-      },
-      {
-        "text": [
-          "The oil change takes about 30 minutes, and the brake inspection also takes around 30 minutes."
-        ],
-        "speaker": "local party",
-        "start_time": 28,
-        "end_time": 32,
-        "channel": "left",
-        "id": 6
-      },
-      {
-        "text": [
-          "Perfect. Can I drop it off tomorrow morning?"
-        ],
-        "speaker": "remote party",
-        "start_time": 32,
-        "end_time": 38,
-        "channel": "right",
-        "id": 7
-      },
-      {
-        "text": [
-          "Yes, we open at 8:00 AM. What time would you like to come in?"
-        ],
-        "speaker": "local party",
-        "start_time": 38,
-        "end_time": 41,
-        "channel": "left",
-        "id": 8
-      },
-      {
-        "text": [
-          "How about 8:15 AM?"
-        ],
-        "speaker": "remote party",
-        "start_time": 41,
-        "end_time": 45,
-        "channel": "right",
-        "id": 9
-      },
-      {
-        "text": [
-          "8:15 AM works great! We\u2019ll have everything ready for you."
-        ],
-        "speaker": "local party",
-        "start_time": 45,
-        "end_time": 48,
-        "channel": "left",
-        "id": 10
-      },
-      {
-        "text": [
-          "Awesome! Also, I\u2019ve been hearing some weird noises when I accelerate."
-        ],
-        "speaker": "remote party",
-        "start_time": 48,
-        "end_time": 53,
-        "channel": "right",
-        "id": 11
-      },
-      {
-        "text": [
-          "I see. It might be worth getting a full vehicle diagnostics as well."
-        ],
-        "speaker": "local party",
-        "start_time": 53,
-        "end_time": 58,
-        "channel": "left",
-        "id": 12
-      },
-      {
-        "text": [
-          "How much is that?"
-        ],
-        "speaker": "remote party",
-        "start_time": 58,
-        "end_time": 62,
-        "channel": "right",
-        "id": 13
-      },
-      {
-        "text": [
-          "The full diagnostics service is $100 and takes about an hour."
-        ],
-        "speaker": "local party",
-        "start_time": 62,
-        "end_time": 66,
-        "channel": "left",
-        "id": 14
-      },
-      {
-        "text": [
-          "That sounds reasonable. Can we add that to my appointment?"
-        ],
-        "speaker": "remote party",
-        "start_time": 66,
-        "end_time": 70,
-        "channel": "right",
-        "id": 15
-      },
-      {
-        "text": [
-          "Absolutely! So, that will be an oil change, brake inspection, and diagnostics."
-        ],
-        "speaker": "local party",
-        "start_time": 70,
-        "end_time": 73,
-        "channel": "left",
-        "id": 16
-      },
-      {
-        "text": [
-          "Great! Just to confirm, how long should I plan for all of that?"
-        ],
-        "speaker": "remote party",
-        "start_time": 73,
-        "end_time": 78,
-        "channel": "right",
-        "id": 17
-      },
-      {
-        "text": [
-          "I\u2019d recommend about two hours for everything, just to be safe."
-        ],
-        "speaker": "local party",
-        "start_time": 78,
-        "end_time": 83,
-        "channel": "left",
-        "id": 18
-      },
-      {
-        "text": [
-          "Okay, sounds good. Is there anything else I need to know?"
-        ],
-        "speaker": "remote party",
-        "start_time": 83,
-        "end_time": 87,
-        "channel": "right",
-        "id": 19
-      },
-      {
-        "text": [
-          "Just a reminder that we may need to order parts depending on what we find during diagnostics."
-        ],
-        "speaker": "local party",
-        "start_time": 87,
-        "end_time": 92,
-        "channel": "left",
-        "id": 20
-      },
-      {
-        "text": [
-          "That makes sense. Please keep me informed if anything needs replacement."
-        ],
-        "speaker": "remote party",
-        "start_time": 92,
-        "end_time": 97,
-        "channel": "right",
-        "id": 21
-      },
-      {
-        "text": [
-          "Of course! We\u2019ll explain everything and get your approval before any work is done."
-        ],
-        "speaker": "local party",
-        "start_time": 97,
-        "end_time": 101,
-        "channel": "left",
-        "id": 22
-      },
-      {
-        "text": [
-          "Perfect. Thanks, Michael. I appreciate the detailed explanations."
-        ],
-        "speaker": "remote party",
-        "start_time": 101,
-        "end_time": 105,
-        "channel": "right",
-        "id": 23
-      },
-      {
-        "text": [
-          "My pleasure, Paul! I\u2019ll see you tomorrow at 8:15 AM."
-        ],
-        "speaker": "local party",
-        "start_time": 105,
-        "end_time": 109,
-        "channel": "left",
-        "id": 24
-      },
-      {
-        "text": [
-          "Looking forward to it. Bye!"
-        ],
-        "speaker": "remote party",
-        "start_time": 109,
-        "end_time": 113,
-        "channel": "right",
-        "id": 25
-      },
-      {
-        "text": [
-          "Bye, have a great day!"
-        ],
-        "speaker": "local party",
-        "start_time": 113,
-        "end_time": 116,
-        "channel": "left",
-        "id": 26
-      }
-    ]
-  }
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f5d9bd9e05bf40ba843e4548dd996c3b",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-f5d9bd9e05bf40ba843e4548dd996c3b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 116,
+      "call_id": "6d5c4ab78d5d4496ba5360d74ef512a1",
+      "caller_id_number": "+12065555678",
+      "caller_id_name": "Paul Wright",
+      "callee_id_number": "+12065551234"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling Speedy Auto Repair, this is Michael. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Michael, this is Paul Wright. I was hoping to check on a service for my car.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Paul! Great to hear from you again. What can I assist you with today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I need to get an oil change and a brake inspection. It\u2019s been a while since my last visit.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Sure thing! Our oil change is between $40 to $60, and the brake inspection is $30.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sounds good. How long will both services take?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "The oil change takes about 30 minutes, and the brake inspection also takes around 30 minutes.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Perfect. Can I drop it off tomorrow morning?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, we open at 8:00 AM. What time would you like to come in?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "How about 8:15 AM?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "8:15 AM works great! We\u2019ll have everything ready for you.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Awesome! Also, I\u2019ve been hearing some weird noises when I accelerate.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I see. It might be worth getting a full vehicle diagnostics as well.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "How much is that?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The full diagnostics service is $100 and takes about an hour.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. Can we add that to my appointment?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! So, that will be an oil change, brake inspection, and diagnostics.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 73,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great! Just to confirm, how long should I plan for all of that?",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I\u2019d recommend about two hours for everything, just to be safe.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, sounds good. Is there anything else I need to know?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just a reminder that we may need to order parts depending on what we find during diagnostics.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That makes sense. Please keep me informed if anything needs replacement.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course! We\u2019ll explain everything and get your approval before any work is done.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect. Thanks, Michael. I appreciate the detailed explanations.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "My pleasure, Paul! I\u2019ll see you tomorrow at 8:15 AM.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Looking forward to it. Bye!",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye, have a great day!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "left",
+          "id": 26
+        }
+      ],
+      "text": "Thank you for calling Speedy Auto Repair, this is Michael. How can I help you today? Hi Michael, this is Paul Wright. I was hoping to check on a service for my car. Hi Paul! Great to hear from you again. What can I assist you with today? I need to get an oil change and a brake inspection. It\u2019s been a while since my last visit. Sure thing! Our oil change is between $40 to $60, and the brake inspection is $30. Sounds good. How long will both services take? The oil change takes about 30 minutes, and the brake inspection also takes around 30 minutes. Perfect. Can I drop it off tomorrow morning? Yes, we open at 8:00 AM. What time would you like to come in? How about 8:15 AM? 8:15 AM works great! We\u2019ll have everything ready for you. Awesome! Also, I\u2019ve been hearing some weird noises when I accelerate. I see. It might be worth getting a full vehicle diagnostics as well. How much is that? The full diagnostics service is $100 and takes about an hour. That sounds reasonable. Can we add that to my appointment? Absolutely! So, that will be an oil change, brake inspection, and diagnostics. Great! Just to confirm, how long should I plan for all of that? I\u2019d recommend about two hours for everything, just to be safe. Okay, sounds good. Is there anything else I need to know? Just a reminder that we may need to order parts depending on what we find during diagnostics. That makes sense. Please keep me informed if anything needs replacement. Of course! We\u2019ll explain everything and get your approval before any work is done. Perfect. Thanks, Michael. I appreciate the detailed explanations. My pleasure, Paul! I\u2019ll see you tomorrow at 8:15 AM. Looking forward to it. Bye! Bye, have a great day!",
+      "summary": "",
+      "duration": 116,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
 }

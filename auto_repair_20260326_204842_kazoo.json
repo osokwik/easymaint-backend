@@ -1,315 +1,276 @@
 {
-  "call_record_id": "202603-5e445e417dad4d2d9bddb48c4ded878e",
-  "metadata": {
-    "direction": "inbound",
-    "duration": 127,
-    "call_id": "40f26b7416a047fcb52f5809efcfbbab",
-    "caller_id_number": "+12065553344",
-    "caller_id_name": "Bob Anderson",
-    "callee_id_number": "+12065551234"
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
   },
-  "transcription": {
-    "segments": [
-      {
-        "text": [
-          "Thank you for calling Speedy Auto Repair, this is Michael speaking."
-        ],
-        "speaker": "local party",
-        "start_time": 0,
-        "end_time": 3,
-        "channel": "left",
-        "id": 0
-      },
-      {
-        "text": [
-          "Hi Michael, it\u2019s Bob Anderson. How are you?"
-        ],
-        "speaker": "remote party",
-        "start_time": 3,
-        "end_time": 8,
-        "channel": "right",
-        "id": 1
-      },
-      {
-        "text": [
-          "Hi Bob! I\u2019m doing well, thanks for asking. How about you?"
-        ],
-        "speaker": "local party",
-        "start_time": 8,
-        "end_time": 10,
-        "channel": "left",
-        "id": 2
-      },
-      {
-        "text": [
-          "I\u2019m good, thanks. I wanted to schedule an oil change for my car."
-        ],
-        "speaker": "remote party",
-        "start_time": 10,
-        "end_time": 15,
-        "channel": "right",
-        "id": 3
-      },
-      {
-        "text": [
-          "Absolutely, we can get that done. When would you like to come in?"
-        ],
-        "speaker": "local party",
-        "start_time": 15,
-        "end_time": 20,
-        "channel": "left",
-        "id": 4
-      },
-      {
-        "text": [
-          "I prefer mornings, if you have any slots available."
-        ],
-        "speaker": "remote party",
-        "start_time": 20,
-        "end_time": 25,
-        "channel": "right",
-        "id": 5
-      },
-      {
-        "text": [
-          "Let me check... How about this Thursday at 8:00 AM?"
-        ],
-        "speaker": "local party",
-        "start_time": 25,
-        "end_time": 30,
-        "channel": "left",
-        "id": 6
-      },
-      {
-        "text": [
-          "That works for me!"
-        ],
-        "speaker": "remote party",
-        "start_time": 30,
-        "end_time": 32,
-        "channel": "right",
-        "id": 7
-      },
-      {
-        "text": [
-          "Perfect, I\u2019ll pencil you in for Thursday at 8:00 AM."
-        ],
-        "speaker": "local party",
-        "start_time": 32,
-        "end_time": 36,
-        "channel": "left",
-        "id": 8
-      },
-      {
-        "text": [
-          "Great! Also, I\u2019ve been hearing some weird noises coming from the brakes."
-        ],
-        "speaker": "remote party",
-        "start_time": 36,
-        "end_time": 42,
-        "channel": "right",
-        "id": 9
-      },
-      {
-        "text": [
-          "I see. Would you like me to schedule a brake inspection during your visit?"
-        ],
-        "speaker": "local party",
-        "start_time": 42,
-        "end_time": 47,
-        "channel": "left",
-        "id": 10
-      },
-      {
-        "text": [
-          "Yes, I think that would be a good idea."
-        ],
-        "speaker": "remote party",
-        "start_time": 47,
-        "end_time": 50,
-        "channel": "right",
-        "id": 11
-      },
-      {
-        "text": [
-          "Alright, I\u2019ll add a brake inspection to your appointment."
-        ],
-        "speaker": "local party",
-        "start_time": 50,
-        "end_time": 54,
-        "channel": "left",
-        "id": 12
-      },
-      {
-        "text": [
-          "How much will that cost?"
-        ],
-        "speaker": "remote party",
-        "start_time": 54,
-        "end_time": 58,
-        "channel": "right",
-        "id": 13
-      },
-      {
-        "text": [
-          "The brake inspection is $30 and takes about 30 minutes."
-        ],
-        "speaker": "local party",
-        "start_time": 58,
-        "end_time": 62,
-        "channel": "left",
-        "id": 14
-      },
-      {
-        "text": [
-          "Sounds good."
-        ],
-        "speaker": "remote party",
-        "start_time": 62,
-        "end_time": 65,
-        "channel": "right",
-        "id": 15
-      },
-      {
-        "text": [
-          "Is there anything else you\u2019re concerned about?"
-        ],
-        "speaker": "local party",
-        "start_time": 65,
-        "end_time": 69,
-        "channel": "left",
-        "id": 16
-      },
-      {
-        "text": [
-          "Actually, I noticed my air conditioning isn\u2019t as cold as it used to be."
-        ],
-        "speaker": "remote party",
-        "start_time": 69,
-        "end_time": 75,
-        "channel": "right",
-        "id": 17
-      },
-      {
-        "text": [
-          "We can check that too. An A/C service is $120, which includes inspection and recharge."
-        ],
-        "speaker": "local party",
-        "start_time": 75,
-        "end_time": 80,
-        "channel": "left",
-        "id": 18
-      },
-      {
-        "text": [
-          "Let\u2019s add that to the list as well."
-        ],
-        "speaker": "remote party",
-        "start_time": 80,
-        "end_time": 85,
-        "channel": "right",
-        "id": 19
-      },
-      {
-        "text": [
-          "So that\u2019s an oil change, brake inspection, and A/C service."
-        ],
-        "speaker": "local party",
-        "start_time": 85,
-        "end_time": 90,
-        "channel": "left",
-        "id": 20
-      },
-      {
-        "text": [
-          "Correct."
-        ],
-        "speaker": "remote party",
-        "start_time": 90,
-        "end_time": 93,
-        "channel": "right",
-        "id": 21
-      },
-      {
-        "text": [
-          "Just to confirm, your appointment is Thursday at 8:00 AM for all three services."
-        ],
-        "speaker": "local party",
-        "start_time": 93,
-        "end_time": 98,
-        "channel": "left",
-        "id": 22
-      },
-      {
-        "text": [
-          "Yes, that\u2019s right!"
-        ],
-        "speaker": "remote party",
-        "start_time": 98,
-        "end_time": 105,
-        "channel": "right",
-        "id": 23
-      },
-      {
-        "text": [
-          "Great, I\u2019ll also have a technician look into those brake noises."
-        ],
-        "speaker": "local party",
-        "start_time": 105,
-        "end_time": 109,
-        "channel": "left",
-        "id": 24
-      },
-      {
-        "text": [
-          "Thank you, Michael. I appreciate your help."
-        ],
-        "speaker": "remote party",
-        "start_time": 109,
-        "end_time": 113,
-        "channel": "right",
-        "id": 25
-      },
-      {
-        "text": [
-          "My pleasure, Bob! We look forward to seeing you."
-        ],
-        "speaker": "local party",
-        "start_time": 113,
-        "end_time": 116,
-        "channel": "left",
-        "id": 26
-      },
-      {
-        "text": [
-          "I\u2019ll see you then. Have a good day!"
-        ],
-        "speaker": "remote party",
-        "start_time": 116,
-        "end_time": 121,
-        "channel": "right",
-        "id": 27
-      },
-      {
-        "text": [
-          "You too, take care!"
-        ],
-        "speaker": "local party",
-        "start_time": 121,
-        "end_time": 125,
-        "channel": "left",
-        "id": 28
-      },
-      {
-        "text": [
-          "(After the call) I need to remind Sarah about Bob's brake inspection and air conditioning service on Thursday."
-        ],
-        "speaker": "local party",
-        "start_time": 125,
-        "end_time": 127,
-        "channel": "left",
-        "id": 29
-      }
-    ]
-  }
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5e445e417dad4d2d9bddb48c4ded878e",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-5e445e417dad4d2d9bddb48c4ded878e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 127,
+      "call_id": "40f26b7416a047fcb52f5809efcfbbab",
+      "caller_id_number": "+12065553344",
+      "caller_id_name": "Bob Anderson",
+      "callee_id_number": "+12065551234"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking.",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Michael, it\u2019s Bob Anderson. How are you?",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Bob! I\u2019m doing well, thanks for asking. How about you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I\u2019m good, thanks. I wanted to schedule an oil change for my car.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can get that done. When would you like to come in?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I prefer mornings, if you have any slots available.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check... How about this Thursday at 8:00 AM?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That works for me!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Perfect, I\u2019ll pencil you in for Thursday at 8:00 AM.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Great! Also, I\u2019ve been hearing some weird noises coming from the brakes.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I see. Would you like me to schedule a brake inspection during your visit?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I think that would be a good idea.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Alright, I\u2019ll add a brake inspection to your appointment.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "How much will that cost?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The brake inspection is $30 and takes about 30 minutes.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 65,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Is there anything else you\u2019re concerned about?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Actually, I noticed my air conditioning isn\u2019t as cold as it used to be.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can check that too. An A/C service is $120, which includes inspection and recharge.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Let\u2019s add that to the list as well.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "So that\u2019s an oil change, brake inspection, and A/C service.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Correct.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 93,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Just to confirm, your appointment is Thursday at 8:00 AM for all three services.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that\u2019s right!",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great, I\u2019ll also have a technician look into those brake noises.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Michael. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "My pleasure, Bob! We look forward to seeing you.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I\u2019ll see you then. Have a good day!",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "(After the call) I need to remind Sarah about Bob's brake inspection and air conditioning service on Thursday.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 127,
+          "channel": "left",
+          "id": 29
+        }
+      ],
+      "text": "Thank you for calling Speedy Auto Repair, this is Michael speaking. Hi Michael, it\u2019s Bob Anderson. How are you? Hi Bob! I\u2019m doing well, thanks for asking. How about you? I\u2019m good, thanks. I wanted to schedule an oil change for my car. Absolutely, we can get that done. When would you like to come in? I prefer mornings, if you have any slots available. Let me check... How about this Thursday at 8:00 AM? That works for me! Perfect, I\u2019ll pencil you in for Thursday at 8:00 AM. Great! Also, I\u2019ve been hearing some weird noises coming from the brakes. I see. Would you like me to schedule a brake inspection during your visit? Yes, I think that would be a good idea. Alright, I\u2019ll add a brake inspection to your appointment. How much will that cost? The brake inspection is $30 and takes about 30 minutes. Sounds good. Is there anything else you\u2019re concerned about? Actually, I noticed my air conditioning isn\u2019t as cold as it used to be. We can check that too. An A/C service is $120, which includes inspection and recharge. Let\u2019s add that to the list as well. So that\u2019s an oil change, brake inspection, and A/C service. Correct. Just to confirm, your appointment is Thursday at 8:00 AM for all three services. Yes, that\u2019s right! Great, I\u2019ll also have a technician look into those brake noises. Thank you, Michael. I appreciate your help. My pleasure, Bob! We look forward to seeing you. I\u2019ll see you then. Have a good day! You too, take care! (After the call) I need to remind Sarah about Bob's brake inspection and air conditioning service on Thursday.",
+      "summary": "",
+      "duration": 127,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
 }

@@ -1,305 +1,268 @@
 {
-  "call_record_id": "202603-762fd8ce919d43649575c8e376b7ae97",
-  "metadata": {
-    "direction": "inbound",
-    "duration": 134,
-    "call_id": "4b921bdf6e004b068dc27fe2fbc63b59",
-    "caller_id_number": "+12065559876",
-    "caller_id_name": "Ryan Harris",
-    "callee_id_number": "+12065551234"
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
   },
-  "transcription": {
-    "segments": [
-      {
-        "text": [
-          "Thank you for calling Speedy Auto Repair, how can I help you today?"
-        ],
-        "speaker": "local party",
-        "start_time": 0,
-        "end_time": 3,
-        "channel": "left",
-        "id": 0
-      },
-      {
-        "text": [
-          "Hi, my name is Ryan Harris. I was just passing by and wanted to inquire about scheduled maintenance and a tune-up."
-        ],
-        "speaker": "remote party",
-        "start_time": 3,
-        "end_time": 8,
-        "channel": "right",
-        "id": 1
-      },
-      {
-        "text": [
-          "Hi Ryan, nice to meet you! We\u2019d be happy to help with that. What specific services are you interested in?"
-        ],
-        "speaker": "local party",
-        "start_time": 8,
-        "end_time": 14,
-        "channel": "left",
-        "id": 2
-      },
-      {
-        "text": [
-          "I think I need an oil change and possibly an engine tune-up as well."
-        ],
-        "speaker": "remote party",
-        "start_time": 14,
-        "end_time": 20,
-        "channel": "right",
-        "id": 3
-      },
-      {
-        "text": [
-          "Great choices! Our oil change is between $40 and $60, and the engine tune-up ranges from $150 to $350."
-        ],
-        "speaker": "local party",
-        "start_time": 20,
-        "end_time": 25,
-        "channel": "left",
-        "id": 4
-      },
-      {
-        "text": [
-          "That sounds reasonable. How long do the services take?"
-        ],
-        "speaker": "remote party",
-        "start_time": 25,
-        "end_time": 30,
-        "channel": "right",
-        "id": 5
-      },
-      {
-        "text": [
-          "The oil change takes about 30 minutes, and the engine tune-up can take anywhere from 2 to 4 hours, depending on the vehicle."
-        ],
-        "speaker": "local party",
-        "start_time": 30,
-        "end_time": 36,
-        "channel": "left",
-        "id": 6
-      },
-      {
-        "text": [
-          "Okay, and do I need to schedule an appointment for those?"
-        ],
-        "speaker": "remote party",
-        "start_time": 36,
-        "end_time": 40,
-        "channel": "right",
-        "id": 7
-      },
-      {
-        "text": [
-          "Yes, appointments are preferred, especially for the tune-up. When are you looking to come in?"
-        ],
-        "speaker": "local party",
-        "start_time": 40,
-        "end_time": 44,
-        "channel": "left",
-        "id": 8
-      },
-      {
-        "text": [
-          "I was hoping to come in this Saturday. Is that possible?"
-        ],
-        "speaker": "remote party",
-        "start_time": 44,
-        "end_time": 50,
-        "channel": "right",
-        "id": 9
-      },
-      {
-        "text": [
-          "Let me check... Yes, we have availability on Saturday morning. Would you like to schedule it for 9:00 AM?"
-        ],
-        "speaker": "local party",
-        "start_time": 50,
-        "end_time": 54,
-        "channel": "left",
-        "id": 10
-      },
-      {
-        "text": [
-          "That works for me!"
-        ],
-        "speaker": "remote party",
-        "start_time": 54,
-        "end_time": 58,
-        "channel": "right",
-        "id": 11
-      },
-      {
-        "text": [
-          "Perfect! I\u2019ll book you in for 9:00 AM this Saturday for the oil change and engine tune-up."
-        ],
-        "speaker": "local party",
-        "start_time": 58,
-        "end_time": 62,
-        "channel": "left",
-        "id": 12
-      },
-      {
-        "text": [
-          "Sounds good. Is there anything else I should know?"
-        ],
-        "speaker": "remote party",
-        "start_time": 62,
-        "end_time": 65,
-        "channel": "right",
-        "id": 13
-      },
-      {
-        "text": [
-          "Just make sure to bring any service records if you have them, and we\u2019ll handle the rest."
-        ],
-        "speaker": "local party",
-        "start_time": 65,
-        "end_time": 71,
-        "channel": "left",
-        "id": 14
-      },
-      {
-        "text": [
-          "Will do. Also, could you give me an estimate for the total cost?"
-        ],
-        "speaker": "remote party",
-        "start_time": 71,
-        "end_time": 76,
-        "channel": "right",
-        "id": 15
-      },
-      {
-        "text": [
-          "Sure! Depending on your vehicle and the services provided, you\u2019re looking at about $190 to $410 for both services combined."
-        ],
-        "speaker": "local party",
-        "start_time": 76,
-        "end_time": 82,
-        "channel": "left",
-        "id": 16
-      },
-      {
-        "text": [
-          "Okay, that sounds manageable."
-        ],
-        "speaker": "remote party",
-        "start_time": 82,
-        "end_time": 87,
-        "channel": "right",
-        "id": 17
-      },
-      {
-        "text": [
-          "Fantastic! Do you have any specific concerns with your vehicle we should note?"
-        ],
-        "speaker": "local party",
-        "start_time": 87,
-        "end_time": 92,
-        "channel": "left",
-        "id": 18
-      },
-      {
-        "text": [
-          "Just a slight hesitation when accelerating, but I guess that\u2019s part of the tune-up check?"
-        ],
-        "speaker": "remote party",
-        "start_time": 92,
-        "end_time": 98,
-        "channel": "right",
-        "id": 19
-      },
-      {
-        "text": [
-          "Yes, we\u2019ll definitely look into that during the tune-up."
-        ],
-        "speaker": "local party",
-        "start_time": 98,
-        "end_time": 102,
-        "channel": "left",
-        "id": 20
-      },
-      {
-        "text": [
-          "Great! I really appreciate your help."
-        ],
-        "speaker": "remote party",
-        "start_time": 102,
-        "end_time": 106,
-        "channel": "right",
-        "id": 21
-      },
-      {
-        "text": [
-          "You\u2019re welcome! Just to confirm, I have you scheduled for Saturday at 9:00 AM."
-        ],
-        "speaker": "local party",
-        "start_time": 106,
-        "end_time": 110,
-        "channel": "left",
-        "id": 22
-      },
-      {
-        "text": [
-          "Yes, that\u2019s right!"
-        ],
-        "speaker": "remote party",
-        "start_time": 110,
-        "end_time": 115,
-        "channel": "right",
-        "id": 23
-      },
-      {
-        "text": [
-          "If you have any questions before then, feel free to call us at this number."
-        ],
-        "speaker": "local party",
-        "start_time": 115,
-        "end_time": 119,
-        "channel": "left",
-        "id": 24
-      },
-      {
-        "text": [
-          "I will, thanks!"
-        ],
-        "speaker": "remote party",
-        "start_time": 119,
-        "end_time": 124,
-        "channel": "right",
-        "id": 25
-      },
-      {
-        "text": [
-          "Thank you, Ryan! We look forward to seeing you on Saturday."
-        ],
-        "speaker": "local party",
-        "start_time": 124,
-        "end_time": 127,
-        "channel": "left",
-        "id": 26
-      },
-      {
-        "text": [
-          "Thank you! Bye!"
-        ],
-        "speaker": "remote party",
-        "start_time": 127,
-        "end_time": 131,
-        "channel": "right",
-        "id": 27
-      },
-      {
-        "text": [
-          "Bye!"
-        ],
-        "speaker": "local party",
-        "start_time": 131,
-        "end_time": 134,
-        "channel": "left",
-        "id": 28
-      }
-    ]
-  }
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-762fd8ce919d43649575c8e376b7ae97",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-762fd8ce919d43649575c8e376b7ae97",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 134,
+      "call_id": "4b921bdf6e004b068dc27fe2fbc63b59",
+      "caller_id_number": "+12065559876",
+      "caller_id_name": "Ryan Harris",
+      "callee_id_number": "+12065551234"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling Speedy Auto Repair, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Ryan Harris. I was just passing by and wanted to inquire about scheduled maintenance and a tune-up.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Ryan, nice to meet you! We\u2019d be happy to help with that. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I think I need an oil change and possibly an engine tune-up as well.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Great choices! Our oil change is between $40 and $60, and the engine tune-up ranges from $150 to $350.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds reasonable. How long do the services take?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "The oil change takes about 30 minutes, and the engine tune-up can take anywhere from 2 to 4 hours, depending on the vehicle.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and do I need to schedule an appointment for those?",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, appointments are preferred, especially for the tune-up. When are you looking to come in?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I was hoping to come in this Saturday. Is that possible?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check... Yes, we have availability on Saturday morning. Would you like to schedule it for 9:00 AM?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That works for me!",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I\u2019ll book you in for 9:00 AM this Saturday for the oil change and engine tune-up.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sounds good. Is there anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Just make sure to bring any service records if you have them, and we\u2019ll handle the rest.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Will do. Also, could you give me an estimate for the total cost?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 76,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure! Depending on your vehicle and the services provided, you\u2019re looking at about $190 to $410 for both services combined.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, that sounds manageable.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Fantastic! Do you have any specific concerns with your vehicle we should note?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Just a slight hesitation when accelerating, but I guess that\u2019s part of the tune-up check?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we\u2019ll definitely look into that during the tune-up.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great! I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You\u2019re welcome! Just to confirm, I have you scheduled for Saturday at 9:00 AM.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that\u2019s right!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "If you have any questions before then, feel free to call us at this number.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 119,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will, thanks!",
+          "speaker": "remote party",
+          "start_time": 119,
+          "end_time": 124,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Ryan! We look forward to seeing you on Saturday.",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 127,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you! Bye!",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 131,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 134,
+          "channel": "left",
+          "id": 28
+        }
+      ],
+      "text": "Thank you for calling Speedy Auto Repair, how can I help you today? Hi, my name is Ryan Harris. I was just passing by and wanted to inquire about scheduled maintenance and a tune-up. Hi Ryan, nice to meet you! We\u2019d be happy to help with that. What specific services are you interested in? I think I need an oil change and possibly an engine tune-up as well. Great choices! Our oil change is between $40 and $60, and the engine tune-up ranges from $150 to $350. That sounds reasonable. How long do the services take? The oil change takes about 30 minutes, and the engine tune-up can take anywhere from 2 to 4 hours, depending on the vehicle. Okay, and do I need to schedule an appointment for those? Yes, appointments are preferred, especially for the tune-up. When are you looking to come in? I was hoping to come in this Saturday. Is that possible? Let me check... Yes, we have availability on Saturday morning. Would you like to schedule it for 9:00 AM? That works for me! Perfect! I\u2019ll book you in for 9:00 AM this Saturday for the oil change and engine tune-up. Sounds good. Is there anything else I should know? Just make sure to bring any service records if you have them, and we\u2019ll handle the rest. Will do. Also, could you give me an estimate for the total cost? Sure! Depending on your vehicle and the services provided, you\u2019re looking at about $190 to $410 for both services combined. Okay, that sounds manageable. Fantastic! Do you have any specific concerns with your vehicle we should note? Just a slight hesitation when accelerating, but I guess that\u2019s part of the tune-up check? Yes, we\u2019ll definitely look into that during the tune-up. Great! I really appreciate your help. You\u2019re welcome! Just to confirm, I have you scheduled for Saturday at 9:00 AM. Yes, that\u2019s right! If you have any questions before then, feel free to call us at this number. I will, thanks! Thank you, Ryan! We look forward to seeing you on Saturday. Thank you! Bye! Bye!",
+      "summary": "",
+      "duration": 134,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
 }
