@@ -1,0 +1,132 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-33488ec3faaf430e9754ab182d3a0373",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-33488ec3faaf430e9754ab182d3a0373",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 100,
+      "call_id": "7E067A93-6104-4F39-B705-80A36D8006A4",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "callee_id_number": "[PHONE_NUMBER]"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Pinnacle Auto Body, this is Mike.",
+          "speaker": "remote party",
+          "start_time": 0.5,
+          "end_time": 2.5,
+          "channel": "right",
+          "id": 0
+        },
+        {
+          "text": "Hey Mike, it's Dave. Calling to check on my F-150. The 2019.",
+          "speaker": "local party",
+          "start_time": 2.2,
+          "end_time": 6.5,
+          "channel": "left",
+          "id": 1
+        },
+        {
+          "text": "Hey Dave. Let me pull up your file.",
+          "speaker": "remote party",
+          "start_time": 6.2,
+          "end_time": 9.0,
+          "channel": "right",
+          "id": 2
+        },
+        {
+          "text": "Okay, parts came in yesterday. Front bumper and headlight assembly.",
+          "speaker": "remote party",
+          "start_time": 11.0,
+          "end_time": 16.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Nice. When's it gonna be ready?",
+          "speaker": "local party",
+          "start_time": 15.8,
+          "end_time": 18.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Friday. The paint needs to cure overnight so we can't rush it.",
+          "speaker": "remote party",
+          "start_time": 17.8,
+          "end_time": 22.0,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Friday works. What's the total?",
+          "speaker": "local party",
+          "start_time": 21.8,
+          "end_time": 24.0,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "With parts and labor, $2,850. That's the full amount minus what insurance is covering. You just owe your $500 deductible.",
+          "speaker": "remote party",
+          "start_time": 23.8,
+          "end_time": 31.0,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Okay cool. I'll come by Friday then.",
+          "speaker": "local party",
+          "start_time": 30.8,
+          "end_time": 33.0,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "We'll call you Friday morning when it's ready.",
+          "speaker": "remote party",
+          "start_time": 32.8,
+          "end_time": 35.5,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sounds good. Thanks Mike.",
+          "speaker": "local party",
+          "start_time": 35.2,
+          "end_time": 37.0,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "No problem Dave. See you Friday.",
+          "speaker": "remote party",
+          "start_time": 36.8,
+          "end_time": 39.0,
+          "channel": "right",
+          "id": 11
+        }
+      ],
+      "text": "Pinnacle Auto Body, this is Mike. Hey Mike, it's Dave. Calling to check on my F-150. The 2019. Hey Dave. Let me pull up your file. Okay, parts came in yesterday. Front bumper and headlight assembly. Nice. When's it gonna be ready? Friday. The paint needs to cure overnight so we can't rush it. Friday works. What's the total? With parts and labor, $2,850. That's the full amount minus what insurance is covering. You just owe your $500 deductible. Okay cool. I'll come by Friday then. We'll call you Friday morning when it's ready. Sounds good. Thanks Mike. No problem Dave. See you Friday.",
+      "summary": "## Call Summary\n\nDave called Pinnacle Auto Body about his 2019 F-150 repair. Parts (bumper, headlight assembly) arrived. Total $2,850, customer owes $500 deductible. Ready Friday.\n\n**Action Items:**\n- Call Dave Friday morning when truck is ready.\n",
+      "duration": 100,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}

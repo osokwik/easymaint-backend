@@ -1,0 +1,124 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a36e6fee13a34494834fa15aa776fc6f",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-a36e6fee13a34494834fa15aa776fc6f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 90,
+      "call_id": "A5B79B45-4FBA-4293-BC8D-22BF63E5A687",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "callee_id_number": "[PHONE_NUMBER]"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Ace Alignment and Suspension, this is Tony.",
+          "speaker": "remote party",
+          "start_time": 0.5,
+          "end_time": 3.5,
+          "channel": "right",
+          "id": 0
+        },
+        {
+          "text": "Tony, hey. My car is pulling hard to the right and the steering wheel shakes at highway speed.",
+          "speaker": "local party",
+          "start_time": 3.2,
+          "end_time": 9.0,
+          "channel": "left",
+          "id": 1
+        },
+        {
+          "text": "What are you driving?",
+          "speaker": "remote party",
+          "start_time": 8.8,
+          "end_time": 10.0,
+          "channel": "right",
+          "id": 2
+        },
+        {
+          "text": "2020 Honda Civic.",
+          "speaker": "local party",
+          "start_time": 9.8,
+          "end_time": 11.5,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Sounds like you might need an alignment and possibly a wheel balance. Could also be a tie rod. When can you bring it in?",
+          "speaker": "remote party",
+          "start_time": 11.2,
+          "end_time": 18.0,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Can I come in tomorrow morning?",
+          "speaker": "local party",
+          "start_time": 17.8,
+          "end_time": 19.5,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yeah, drop it off by 8 and we'll get it on the rack first thing. Alignment check is free, the alignment itself is $89.95.",
+          "speaker": "remote party",
+          "start_time": 19.2,
+          "end_time": 26.5,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "And if it's a tie rod?",
+          "speaker": "local party",
+          "start_time": 26.2,
+          "end_time": 28.0,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Inner tie rod on the Civic is about $180 per side with the alignment included.",
+          "speaker": "remote party",
+          "start_time": 27.8,
+          "end_time": 32.5,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Okay, I'll be there at 8. Thanks Tony.",
+          "speaker": "local party",
+          "start_time": 32.2,
+          "end_time": 35.0,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "See you then. Drive careful.",
+          "speaker": "remote party",
+          "start_time": 34.8,
+          "end_time": 36.5,
+          "channel": "right",
+          "id": 10
+        }
+      ],
+      "text": "Ace Alignment and Suspension, this is Tony. Tony, hey. My car is pulling hard to the right and the steering wheel shakes at highway speed. What are you driving? 2020 Honda Civic. Sounds like you might need an alignment and possibly a wheel balance. Could also be a tie rod. When can you bring it in? Can I come in tomorrow morning? Yeah, drop it off by 8 and we'll get it on the rack first thing. Alignment check is free, the alignment itself is $89.95. And if it's a tie rod? Inner tie rod on the Civic is about $180 per side with the alignment included. Okay, I'll be there at 8. Thanks Tony. See you then. Drive careful.",
+      "summary": "## Call Summary\n\nCustomer with a 2020 Honda Civic called about pulling right and steering shake. Possible alignment, wheel balance, or tie rod issue. Drop-off tomorrow at 8 AM. Alignment $89.95, tie rod $180/side.\n\n**Action Items:**\n- Customer drop-off at 8 AM tomorrow for inspection.\n",
+      "duration": 90,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}

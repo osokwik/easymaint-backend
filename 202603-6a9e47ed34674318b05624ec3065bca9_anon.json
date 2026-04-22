@@ -1,0 +1,148 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6a9e47ed34674318b05624ec3065bca9",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-6a9e47ed34674318b05624ec3065bca9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "call_id": "091F7CF6-42AC-4CAB-B601-FBF61C8D8C33",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "callee_id_number": "[PHONE_NUMBER]"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Westside Auto Parts, Clay speaking.",
+          "speaker": "remote party",
+          "start_time": 0.5,
+          "end_time": 3.0,
+          "channel": "right",
+          "id": 0
+        },
+        {
+          "text": "Hey Clay, it's [REDACTED_PERSON_1] from Direct Automotive. Got a VIN for you.",
+          "speaker": "local party",
+          "start_time": 2.8,
+          "end_time": 6.5,
+          "channel": "left",
+          "id": 1
+        },
+        {
+          "text": "Go ahead.",
+          "speaker": "remote party",
+          "start_time": 6.2,
+          "end_time": 7.0,
+          "channel": "right",
+          "id": 2
+        },
+        {
+          "text": "K as in Kimberly, S as in Sam, 7-0-0-0-3-9. Looking for a blower motor resistor.",
+          "speaker": "local party",
+          "start_time": 7.0,
+          "end_time": 13.0,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Let me pull that up. 2018 Chevy Equinox, right?",
+          "speaker": "remote party",
+          "start_time": 12.8,
+          "end_time": 16.0,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "That's the one.",
+          "speaker": "local party",
+          "start_time": 15.8,
+          "end_time": 17.0,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Okay, the resistor is built into the blower motor on this one. No separate part.",
+          "speaker": "remote party",
+          "start_time": 19.0,
+          "end_time": 24.5,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I figured that might be the case. What's the cost on the blower?",
+          "speaker": "local party",
+          "start_time": 24.2,
+          "end_time": 27.5,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I show one in stock. Your cost is $409.50, list is $585.",
+          "speaker": "remote party",
+          "start_time": 27.2,
+          "end_time": 32.0,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Can I get the part number?",
+          "speaker": "local party",
+          "start_time": 31.8,
+          "end_time": 33.5,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "68214892 alpha delta. Quote number 60853.",
+          "speaker": "remote party",
+          "start_time": 33.2,
+          "end_time": 38.0,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Got it. I'll quote the customer and call you back if we need it.",
+          "speaker": "local party",
+          "start_time": 37.8,
+          "end_time": 41.5,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Sounds good. Thanks bud.",
+          "speaker": "remote party",
+          "start_time": 41.2,
+          "end_time": 43.0,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Thanks. Bye.",
+          "speaker": "local party",
+          "start_time": 42.8,
+          "end_time": 44.0,
+          "channel": "left",
+          "id": 13
+        }
+      ],
+      "text": "Westside Auto Parts, Clay speaking. Hey Clay, it's [REDACTED_PERSON_1] from Direct Automotive. Got a VIN for you. Go ahead. K as in Kimberly, S as in Sam, 7-0-0-0-3-9. Looking for a blower motor resistor. Let me pull that up. 2018 Chevy Equinox, right? That's the one. Okay, the resistor is built into the blower motor on this one. No separate part. I figured that might be the case. What's the cost on the blower? I show one in stock. Your cost is $409.50, list is $585. Can I get the part number? 68214892 alpha delta. Quote number 60853. Got it. I'll quote the customer and call you back if we need it. Sounds good. Thanks bud. Thanks. Bye.",
+      "summary": "## Call Summary\n\nTyler from Direct Automotive called looking for a blower motor resistor for a 2018 Chevy Equinox (VIN KS700039). The resistor is integrated into the blower motor. One in stock at $409.50 cost / $585 list. Part number 68214892AD, quote 60853.\n\n**Action Items:**\n- Tyler to quote customer and call back to order.\n",
+      "duration": 140,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}

@@ -1,0 +1,124 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-141ef309ed274f48be4ca4f76fd4b9f7",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-141ef309ed274f48be4ca4f76fd4b9f7",
+    "metadata": {
+      "direction": "outbound",
+      "duration": 95,
+      "call_id": "AFF5AF9A-4F03-470B-82BC-E9A7EE2D55C2",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "callee_id_number": "[PHONE_NUMBER]"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Hi, this is Mike from Precision Collision. Calling about the 2021 Camry we've got in the shop.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 5.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hey Mike, what's the update?",
+          "speaker": "remote party",
+          "start_time": 5.2,
+          "end_time": 7.5,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "So we pulled the bumper cover off and found the reinforcement bar is bent too. It wasn't visible from the outside.",
+          "speaker": "local party",
+          "start_time": 7.2,
+          "end_time": 13.5,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh man. How much extra is that gonna be?",
+          "speaker": "remote party",
+          "start_time": 13.2,
+          "end_time": 16.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "The bar is about $320 for the part, plus another hour and a half of labor. So roughly $500 on top of the original estimate.",
+          "speaker": "local party",
+          "start_time": 15.8,
+          "end_time": 23.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay. Will insurance cover it?",
+          "speaker": "remote party",
+          "start_time": 22.8,
+          "end_time": 25.0,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yeah, we'll submit a supplement to your adjuster. Shouldn't be an issue.",
+          "speaker": "local party",
+          "start_time": 24.8,
+          "end_time": 29.0,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright. Does this push back the completion date?",
+          "speaker": "remote party",
+          "start_time": 28.8,
+          "end_time": 31.5,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Maybe a day. We're looking at next Wednesday now instead of Tuesday.",
+          "speaker": "local party",
+          "start_time": 31.2,
+          "end_time": 35.5,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That's fine. Thanks for letting me know Mike.",
+          "speaker": "remote party",
+          "start_time": 35.2,
+          "end_time": 38.0,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "No problem. We'll keep you posted. Bye.",
+          "speaker": "local party",
+          "start_time": 37.8,
+          "end_time": 40.0,
+          "channel": "left",
+          "id": 10
+        }
+      ],
+      "text": "Hi, this is Mike from Precision Collision. Calling about the 2021 Camry we've got in the shop. Hey Mike, what's the update? So we pulled the bumper cover off and found the reinforcement bar is bent too. It wasn't visible from the outside. Oh man. How much extra is that gonna be? The bar is about $320 for the part, plus another hour and a half of labor. So roughly $500 on top of the original estimate. Okay. Will insurance cover it? Yeah, we'll submit a supplement to your adjuster. Shouldn't be an issue. Alright. Does this push back the completion date? Maybe a day. We're looking at next Wednesday now instead of Tuesday. That's fine. Thanks for letting me know Mike. No problem. We'll keep you posted. Bye.",
+      "summary": "## Call Summary\n\nMike from Precision Collision called customer about a 2021 Camry repair. Hidden damage found: bent reinforcement bar. Additional cost ~$500, to be submitted as insurance supplement. Completion pushed to Wednesday.\n\n**Action Items:**\n- Submit supplement to insurance adjuster.\n- Update completion date to Wednesday.\n",
+      "duration": 95,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}

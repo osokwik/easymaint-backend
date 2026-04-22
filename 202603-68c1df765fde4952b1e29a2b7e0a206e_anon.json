@@ -1,0 +1,140 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-68c1df765fde4952b1e29a2b7e0a206e",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-68c1df765fde4952b1e29a2b7e0a206e",
+    "metadata": {
+      "direction": "outbound",
+      "duration": 130,
+      "call_id": "8C26AD67-732B-487D-9786-1C3F68D5539B",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "callee_id_number": "[PHONE_NUMBER]"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Good morning, this is Carlos from Valley Transmission. I'm calling about your Ram 1500.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 5.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Yeah, what's the verdict?",
+          "speaker": "remote party",
+          "start_time": 5.2,
+          "end_time": 7.0,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "So we pulled the pan and the fluid was pretty burnt. The 3-4 clutch pack is worn out. You need a rebuild.",
+          "speaker": "local party",
+          "start_time": 6.8,
+          "end_time": 14.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "How much is a rebuild gonna run?",
+          "speaker": "remote party",
+          "start_time": 13.8,
+          "end_time": 16.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "For the 8-speed on the Ram, we're looking at $3,200 to $3,800 depending on what else we find once we tear it down.",
+          "speaker": "local party",
+          "start_time": 15.8,
+          "end_time": 23.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Wow. What about a used transmission?",
+          "speaker": "remote party",
+          "start_time": 22.8,
+          "end_time": 25.5,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We can source a used one with about 60,000 miles for around $1,800 installed. But the warranty is only 90 days.",
+          "speaker": "local party",
+          "start_time": 25.2,
+          "end_time": 32.0,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "And the rebuild warranty?",
+          "speaker": "remote party",
+          "start_time": 31.8,
+          "end_time": 33.5,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "3 years, 36,000 miles.",
+          "speaker": "local party",
+          "start_time": 33.2,
+          "end_time": 35.5,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Let me think about it and call you back today. I need to figure out if it's worth putting that much into the truck.",
+          "speaker": "remote party",
+          "start_time": 35.2,
+          "end_time": 41.0,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "No rush. We'll hold the truck until we hear from you. Just let us know by end of week.",
+          "speaker": "local party",
+          "start_time": 40.8,
+          "end_time": 46.0,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Will do. Thanks Carlos.",
+          "speaker": "remote party",
+          "start_time": 45.8,
+          "end_time": 47.5,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You bet. Talk soon.",
+          "speaker": "local party",
+          "start_time": 47.2,
+          "end_time": 49.0,
+          "channel": "left",
+          "id": 12
+        }
+      ],
+      "text": "Good morning, this is Carlos from Valley Transmission. I'm calling about your Ram 1500. Yeah, what's the verdict? So we pulled the pan and the fluid was pretty burnt. The 3-4 clutch pack is worn out. You need a rebuild. How much is a rebuild gonna run? For the 8-speed on the Ram, we're looking at $3,200 to $3,800 depending on what else we find once we tear it down. Wow. What about a used transmission? We can source a used one with about 60,000 miles for around $1,800 installed. But the warranty is only 90 days. And the rebuild warranty? 3 years, 36,000 miles. Let me think about it and call you back today. I need to figure out if it's worth putting that much into the truck. No rush. We'll hold the truck until we hear from you. Just let us know by end of week. Will do. Thanks Carlos. You bet. Talk soon.",
+      "summary": "## Call Summary\n\nCarlos from Valley Transmission called customer about Ram 1500 diagnosis. Burnt fluid, worn 3-4 clutch pack, needs rebuild ($3,200-$3,800, 3yr/36K warranty) or used trans ($1,800, 90-day warranty). Customer deciding.\n\n**Action Items:**\n- Customer to call back by end of week with decision.\n",
+      "duration": 130,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}

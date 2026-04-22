@@ -1,0 +1,116 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b60d4c1946e647f088be491e49e3b91f",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-b60d4c1946e647f088be491e49e3b91f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 70,
+      "call_id": "7ABC61C4-13A8-4519-8A60-908E414154D3",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "callee_id_number": "[PHONE_NUMBER]"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "AutoZone on Fifth Street, this is Jen.",
+          "speaker": "remote party",
+          "start_time": 0.5,
+          "end_time": 3.0,
+          "channel": "right",
+          "id": 0
+        },
+        {
+          "text": "Hey Jen, do you guys have a starter in stock for a 2015 Hyundai Sonata 2.4?",
+          "speaker": "local party",
+          "start_time": 2.8,
+          "end_time": 8.0,
+          "channel": "left",
+          "id": 1
+        },
+        {
+          "text": "Let me look that up. 2015 Sonata 2.4 liter?",
+          "speaker": "remote party",
+          "start_time": 7.8,
+          "end_time": 11.0,
+          "channel": "right",
+          "id": 2
+        },
+        {
+          "text": "Yeah.",
+          "speaker": "local party",
+          "start_time": 10.8,
+          "end_time": 11.5,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "I've got two options. Duralast for $189.99 and a remanufactured one for $129.99.",
+          "speaker": "remote party",
+          "start_time": 14.0,
+          "end_time": 20.5,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "I'll take the Duralast. Can you hold it for me? I'll be there in about 20 minutes.",
+          "speaker": "local party",
+          "start_time": 20.2,
+          "end_time": 25.0,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Sure thing. Name?",
+          "speaker": "remote party",
+          "start_time": 24.8,
+          "end_time": 26.0,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "[NAME].",
+          "speaker": "local party",
+          "start_time": 25.8,
+          "end_time": 27.0,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Got it, it'll be at the counter. See you soon.",
+          "speaker": "remote party",
+          "start_time": 26.8,
+          "end_time": 29.5,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Thanks Jen.",
+          "speaker": "local party",
+          "start_time": 29.2,
+          "end_time": 30.5,
+          "channel": "left",
+          "id": 9
+        }
+      ],
+      "text": "AutoZone on Fifth Street, this is Jen. Hey Jen, do you guys have a starter in stock for a 2015 Hyundai Sonata 2.4? Let me look that up. 2015 Sonata 2.4 liter? Yeah. I've got two options. Duralast for $189.99 and a remanufactured one for $129.99. I'll take the Duralast. Can you hold it for me? I'll be there in about 20 minutes. Sure thing. Name? [NAME]. Got it, it'll be at the counter. See you soon. Thanks Jen.",
+      "summary": "## Call Summary\n\nCustomer called AutoZone looking for a starter for a 2015 Hyundai Sonata 2.4L. Chose Duralast at $189.99. Part held at counter for pickup in 20 minutes.\n\n**Action Items:**\n- Hold Duralast starter at counter.\n",
+      "duration": 70,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}

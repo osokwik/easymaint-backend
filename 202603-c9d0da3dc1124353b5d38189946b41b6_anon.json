@@ -1,0 +1,140 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c9d0da3dc1124353b5d38189946b41b6",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-c9d0da3dc1124353b5d38189946b41b6",
+    "metadata": {
+      "direction": "outbound",
+      "duration": 115,
+      "call_id": "EBC517C0-F38A-41C2-8714-80B2C6F4EC4C",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "callee_id_number": "[PHONE_NUMBER]"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Hi, this is Amy from Clearview Auto Glass. I'm calling to schedule your windshield replacement.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 5.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Oh great. Yeah, I've got a big crack running across the whole thing.",
+          "speaker": "remote party",
+          "start_time": 5.2,
+          "end_time": 9.5,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I see the claim from your insurance. It's a 2022 Toyota RAV4, correct?",
+          "speaker": "local party",
+          "start_time": 9.2,
+          "end_time": 14.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "That's right.",
+          "speaker": "remote party",
+          "start_time": 13.8,
+          "end_time": 15.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Good news, your insurance covers the full replacement. No deductible on glass in your state.",
+          "speaker": "local party",
+          "start_time": 14.8,
+          "end_time": 20.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh awesome, I didn't know that.",
+          "speaker": "remote party",
+          "start_time": 19.8,
+          "end_time": 22.0,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yeah, it's a nice perk. We can come to your home or work. What works better?",
+          "speaker": "local party",
+          "start_time": 21.8,
+          "end_time": 26.5,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Can you come to my office? I'm at [ADDRESS].",
+          "speaker": "remote party",
+          "start_time": 26.2,
+          "end_time": 30.0,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sure. We have Thursday or Friday available. Takes about an hour.",
+          "speaker": "local party",
+          "start_time": 29.8,
+          "end_time": 34.0,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thursday morning would be great.",
+          "speaker": "remote party",
+          "start_time": 33.8,
+          "end_time": 36.0,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We'll be there between 9 and 10 AM Thursday. Just don't drive it for an hour after we finish so the adhesive sets.",
+          "speaker": "local party",
+          "start_time": 35.8,
+          "end_time": 42.5,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Got it. Thanks Amy.",
+          "speaker": "remote party",
+          "start_time": 42.2,
+          "end_time": 44.0,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You're welcome. See you Thursday.",
+          "speaker": "local party",
+          "start_time": 43.8,
+          "end_time": 46.0,
+          "channel": "left",
+          "id": 12
+        }
+      ],
+      "text": "Hi, this is Amy from Clearview Auto Glass. I'm calling to schedule your windshield replacement. Oh great. Yeah, I've got a big crack running across the whole thing. I see the claim from your insurance. It's a 2022 Toyota RAV4, correct? That's right. Good news, your insurance covers the full replacement. No deductible on glass in your state. Oh awesome, I didn't know that. Yeah, it's a nice perk. We can come to your home or work. What works better? Can you come to my office? I'm at [ADDRESS]. Sure. We have Thursday or Friday available. Takes about an hour. Thursday morning would be great. We'll be there between 9 and 10 AM Thursday. Just don't drive it for an hour after we finish so the adhesive sets. Got it. Thanks Amy. You're welcome. See you Thursday.",
+      "summary": "## Call Summary\n\nAmy from Clearview Auto Glass called to schedule windshield replacement for a 2022 Toyota RAV4. Fully covered by insurance, no deductible. Mobile service at customer's office Thursday 9-10 AM.\n\n**Action Items:**\n- Dispatch mobile crew to customer's office Thursday 9-10 AM.\n",
+      "duration": 115,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}

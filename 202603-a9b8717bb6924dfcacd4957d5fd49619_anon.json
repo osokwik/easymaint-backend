@@ -1,0 +1,148 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a9b8717bb6924dfcacd4957d5fd49619",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-a9b8717bb6924dfcacd4957d5fd49619",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "call_id": "4CD1340A-25A9-4EE7-8F95-5146DB005411",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "callee_id_number": "[PHONE_NUMBER]"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Eagle Auto Salvage, this is Danny.",
+          "speaker": "remote party",
+          "start_time": 0.5,
+          "end_time": 3.0,
+          "channel": "right",
+          "id": 0
+        },
+        {
+          "text": "Danny, hey. It's Rob from Lakeside Repair. I need a driver side door for an '09 Accord.",
+          "speaker": "local party",
+          "start_time": 2.8,
+          "end_time": 8.0,
+          "channel": "left",
+          "id": 1
+        },
+        {
+          "text": "Color?",
+          "speaker": "remote party",
+          "start_time": 7.8,
+          "end_time": 8.5,
+          "channel": "right",
+          "id": 2
+        },
+        {
+          "text": "Silver. Doesn't have to be perfect, customer just needs it functional.",
+          "speaker": "local party",
+          "start_time": 8.2,
+          "end_time": 12.0,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Let me check the yard. Hold on.",
+          "speaker": "remote party",
+          "start_time": 11.8,
+          "end_time": 14.0,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Okay, I've got one. Silver, power windows, no dents. Mirror is cracked though.",
+          "speaker": "remote party",
+          "start_time": 22.0,
+          "end_time": 27.5,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That's fine, we've got a mirror. How much?",
+          "speaker": "local party",
+          "start_time": 27.2,
+          "end_time": 29.5,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "$275 with a 30-day warranty.",
+          "speaker": "remote party",
+          "start_time": 29.2,
+          "end_time": 32.0,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Can you do $250?",
+          "speaker": "local party",
+          "start_time": 31.8,
+          "end_time": 33.5,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Meet you at $260.",
+          "speaker": "remote party",
+          "start_time": 33.2,
+          "end_time": 35.0,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Deal. Can you deliver it tomorrow?",
+          "speaker": "local party",
+          "start_time": 34.8,
+          "end_time": 37.0,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yeah, we run deliveries in the morning. Should be there by 11.",
+          "speaker": "remote party",
+          "start_time": 36.8,
+          "end_time": 40.5,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect. Thanks Danny.",
+          "speaker": "local party",
+          "start_time": 40.2,
+          "end_time": 42.0,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "You got it. Later.",
+          "speaker": "remote party",
+          "start_time": 41.8,
+          "end_time": 43.0,
+          "channel": "right",
+          "id": 13
+        }
+      ],
+      "text": "Eagle Auto Salvage, this is Danny. Danny, hey. It's Rob from Lakeside Repair. I need a driver side door for an '09 Accord. Color? Silver. Doesn't have to be perfect, customer just needs it functional. Let me check the yard. Hold on. Okay, I've got one. Silver, power windows, no dents. Mirror is cracked though. That's fine, we've got a mirror. How much? $275 with a 30-day warranty. Can you do $250? Meet you at $260. Deal. Can you deliver it tomorrow? Yeah, we run deliveries in the morning. Should be there by 11. Perfect. Thanks Danny. You got it. Later.",
+      "summary": "## Call Summary\n\nRob from Lakeside Repair called Eagle Auto Salvage for a driver side door for a 2009 Honda Accord. Silver, power windows, cracked mirror. Agreed at $260 with 30-day warranty. Delivery tomorrow by 11 AM.\n\n**Action Items:**\n- Danny to deliver door by 11 AM tomorrow.\n",
+      "duration": 110,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}
