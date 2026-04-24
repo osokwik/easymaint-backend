@@ -1,0 +1,129 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-18T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f4260f5302e743a2afeb2f5213287b89",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940691200-f4260f53",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "inbound",
+      "duration": 45,
+      "duration_ms": 45000,
+      "owner_id": "5a2339090a4b47a9b1219a20ed4363c1",
+      "start": 63940691200,
+      "call_id": "79AB4C6E-BE08-490F-9507-52F960325DCC",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-79AB4C6E-BE08-490F-9507-52F960325DCC"
+    },
+    "media_name": "de5843d5f22141a091457538497dafcc.mp3",
+    "call_record_id": "202603-f4260f5302e743a2afeb2f5213287b89",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260318",
+    "transcription": {
+      "language": "en",
+      "duration": 45.0,
+      "text": "Riverside Mechanics, this is Tom. Hi, my name is Kevin. A coworker recommended you. I need new tires for my 2021 Subaru Crosstrek. What are you running now? I think they're 225/60R17. Let me check what we have. We've got Michelin Defenders at $165 each or Continental TrueContact at $140 each. Both installed and balanced. I'll go with the Continentals. That's $560 plus tax for all four. When can I come in? How about Wednesday at 11? Wednesday at 11 works. Thanks Tom. See you then, Kevin.",
+      "summary": "## Call Summary\n\nNew customer Kevin (referral) needs tires for 2021 Subaru Crosstrek. Chose Continental TrueContact at $140/each = $560 + tax. Appointment Wednesday 11 AM.\n",
+      "segments": [
+        {
+          "text": "Riverside Mechanics, this is Tom.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 2.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Kevin. A coworker recommended you. I need new tires for my 2021 Subaru Crosstrek.",
+          "speaker": "remote party",
+          "start_time": 2.8,
+          "end_time": 9.0,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "What are you running now?",
+          "speaker": "local party",
+          "start_time": 9.2,
+          "end_time": 10.5,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I think they're 225/60R17.",
+          "speaker": "remote party",
+          "start_time": 10.8,
+          "end_time": 12.5,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check what we have. We've got Michelin Defenders at $165 each or Continental TrueContact at $140 each. Both installed and balanced.",
+          "speaker": "local party",
+          "start_time": 12.8,
+          "end_time": 21.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I'll go with the Continentals. That's $560 plus tax for all four. When can I come in?",
+          "speaker": "remote party",
+          "start_time": 21.2,
+          "end_time": 26.0,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "How about Wednesday at 11?",
+          "speaker": "local party",
+          "start_time": 26.2,
+          "end_time": 28.0,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Wednesday at 11 works. Thanks Tom.",
+          "speaker": "remote party",
+          "start_time": 28.2,
+          "end_time": 30.5,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "See you then, Kevin.",
+          "speaker": "local party",
+          "start_time": 30.8,
+          "end_time": 32.0,
+          "channel": "left",
+          "id": 8
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-f4260f5302e743a2afeb2f5213287b89"
+  },
+  "revision": "",
+  "status": "success"
+}

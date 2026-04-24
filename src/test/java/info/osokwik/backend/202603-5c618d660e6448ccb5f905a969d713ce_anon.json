@@ -1,0 +1,113 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5c618d660e6448ccb5f905a969d713ce",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940518400-5c618d66",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "inbound",
+      "duration": 28,
+      "duration_ms": 28000,
+      "owner_id": "b2015b6b62974ff1965ec4721f733c62",
+      "start": 63940518400,
+      "call_id": "83CC4129-0BB4-49FD-A440-141AE3423047",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-83CC4129-0BB4-49FD-A440-141AE3423047"
+    },
+    "media_name": "aab7eb5ca6184edc8b6f73fe7922163d.mp3",
+    "call_record_id": "202603-5c618d660e6448ccb5f905a969d713ce",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260316",
+    "transcription": {
+      "language": "en",
+      "duration": 28.0,
+      "text": "Valley Auto Care, this is Diego. Hi, do you guys work on European cars? I have a 2019 BMW X3 that needs some work. Absolutely, we work on all makes and models. What's going on with it? The check engine light is on and it's running rough. Okay, we'd start with a diagnostic. Do you want to schedule something? Not yet, I'm still calling around. But I'll keep you in mind. Sounds good, give us a call when you're ready.",
+      "summary": "## Call Summary\n\nNew lead inquired about European car service for 2019 BMW X3 with check engine light. Customer is shopping around, no appointment made.\n",
+      "segments": [
+        {
+          "text": "Valley Auto Care, this is Diego.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 2.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, do you guys work on European cars? I have a 2019 BMW X3 that needs some work.",
+          "speaker": "remote party",
+          "start_time": 2.8,
+          "end_time": 7.5,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Absolutely, we work on all makes and models. What's going on with it?",
+          "speaker": "local party",
+          "start_time": 7.8,
+          "end_time": 11.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "The check engine light is on and it's running rough.",
+          "speaker": "remote party",
+          "start_time": 11.2,
+          "end_time": 14.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Okay, we'd start with a diagnostic. Do you want to schedule something?",
+          "speaker": "local party",
+          "start_time": 14.2,
+          "end_time": 17.5,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Not yet, I'm still calling around. But I'll keep you in mind.",
+          "speaker": "remote party",
+          "start_time": 17.8,
+          "end_time": 21.0,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sounds good, give us a call when you're ready.",
+          "speaker": "local party",
+          "start_time": 21.2,
+          "end_time": 23.5,
+          "channel": "left",
+          "id": 6
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1003",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-5c618d660e6448ccb5f905a969d713ce"
+  },
+  "revision": "",
+  "status": "success"
+}

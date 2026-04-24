@@ -1,0 +1,113 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-11T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e8e8f852febe4950bb20f94c714ae4a5",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940086400-e8e8f852",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "inbound",
+      "duration": 48,
+      "duration_ms": 48000,
+      "owner_id": "a458df9cb924496aac63264aa40e115d",
+      "start": 63940086400,
+      "call_id": "C1DD5B68-F9D3-409B-AECC-3076BDA79CDD",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-C1DD5B68-F9D3-409B-AECC-3076BDA79CDD"
+    },
+    "media_name": "862baefe594a4428908990f895331273.mp3",
+    "call_record_id": "202603-e8e8f852febe4950bb20f94c714ae4a5",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260311",
+    "transcription": {
+      "language": "en",
+      "duration": 48.0,
+      "text": "Riverside Mechanics, this is Tom. Hey Tom, I'm Marcus. I got your number from a friend. My truck's transmission is slipping. Can you give me a ballpark? Sure, what's the year and model? 2018 Chevy Silverado 1500. For a full rebuild we're looking at $2,800 to $3,200 depending on parts. A fluid flush and band adjustment might fix it for around $450 if it's not too far gone. That's helpful. Let me think about it and call back. No problem Marcus, we're here when you're ready.",
+      "summary": "## Call Summary\n\nNew lead Marcus called about transmission issues on 2018 Chevy Silverado. Quote provided: rebuild $2,800-$3,200, flush/adjustment $450. Customer will call back.\n",
+      "segments": [
+        {
+          "text": "Riverside Mechanics, this is Tom.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 2.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hey Tom, I'm Marcus. I got your number from a friend. My truck's transmission is slipping. Can you give me a ballpark?",
+          "speaker": "remote party",
+          "start_time": 2.8,
+          "end_time": 9.0,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Sure, what's the year and model?",
+          "speaker": "local party",
+          "start_time": 9.2,
+          "end_time": 11.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "2018 Chevy Silverado 1500.",
+          "speaker": "remote party",
+          "start_time": 11.2,
+          "end_time": 13.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "For a full rebuild we're looking at $2,800 to $3,200 depending on parts. A fluid flush and band adjustment might fix it for around $450 if it's not too far gone.",
+          "speaker": "local party",
+          "start_time": 13.3,
+          "end_time": 22.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That's helpful. Let me think about it and call back.",
+          "speaker": "remote party",
+          "start_time": 22.2,
+          "end_time": 25.0,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "No problem Marcus, we're here when you're ready.",
+          "speaker": "local party",
+          "start_time": 25.2,
+          "end_time": 27.5,
+          "channel": "left",
+          "id": 6
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-e8e8f852febe4950bb20f94c714ae4a5"
+  },
+  "revision": "",
+  "status": "success"
+}

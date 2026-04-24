@@ -1,0 +1,113 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-15T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-aff1ba3f84b9453f97c2d6009b58ba9f",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940432000-aff1ba3f",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "inbound",
+      "duration": 60,
+      "duration_ms": 60000,
+      "owner_id": "1992600730cc4112a22c8ca730dcce80",
+      "start": 63940432000,
+      "call_id": "28314569-1B68-48D0-93C2-1451EA1CCFB1",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-28314569-1B68-48D0-93C2-1451EA1CCFB1"
+    },
+    "media_name": "5544f2e8974143fd8b8a1b416652dba7.mp3",
+    "call_record_id": "202603-aff1ba3f84b9453f97c2d6009b58ba9f",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260315",
+    "transcription": {
+      "language": "en",
+      "duration": 60.0,
+      "text": "Riverside Mechanics, this is Tom. Hey Tom, it's Lisa. I need my 30,000 mile service on my 2023 Mazda CX-5. What does that include and how much? Great question. It's an oil change, tire rotation, brake inspection, cabin and engine air filters, and a multi-point inspection. Package price is $289. That's actually cheaper than the dealer quoted me. Can I come in Monday? Monday works great. How about 8:30 AM? Perfect. You guys are always so easy to work with. We appreciate you, Lisa. See you Monday!",
+      "summary": "## Call Summary\n\nRepeat customer Lisa called for 30K mile service on 2023 Mazda CX-5. Package price $289. Appointment booked Monday 8:30 AM. Customer noted price is cheaper than dealer.\n",
+      "segments": [
+        {
+          "text": "Riverside Mechanics, this is Tom.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 2.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hey Tom, it's Lisa. I need my 30,000 mile service on my 2023 Mazda CX-5. What does that include and how much?",
+          "speaker": "remote party",
+          "start_time": 2.8,
+          "end_time": 10.0,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Great question. It's an oil change, tire rotation, brake inspection, cabin and engine air filters, and a multi-point inspection. Package price is $289.",
+          "speaker": "local party",
+          "start_time": 10.2,
+          "end_time": 20.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "That's actually cheaper than the dealer quoted me. Can I come in Monday?",
+          "speaker": "remote party",
+          "start_time": 20.2,
+          "end_time": 24.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Monday works great. How about 8:30 AM?",
+          "speaker": "local party",
+          "start_time": 24.2,
+          "end_time": 26.5,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Perfect. You guys are always so easy to work with.",
+          "speaker": "remote party",
+          "start_time": 26.8,
+          "end_time": 29.5,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We appreciate you, Lisa. See you Monday!",
+          "speaker": "local party",
+          "start_time": 29.8,
+          "end_time": 32.0,
+          "channel": "left",
+          "id": 6
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-aff1ba3f84b9453f97c2d6009b58ba9f"
+  },
+  "revision": "",
+  "status": "success"
+}

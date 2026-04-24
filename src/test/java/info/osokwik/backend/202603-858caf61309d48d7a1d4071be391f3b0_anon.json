@@ -1,0 +1,129 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-13T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-858caf61309d48d7a1d4071be391f3b0",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940259200-858caf61",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "inbound",
+      "duration": 42,
+      "duration_ms": 42000,
+      "owner_id": "d5da606243b5408f842cfd9eeb3571d0",
+      "start": 63940259200,
+      "call_id": "70AC3A66-A5F3-4874-B209-4765F559D08A",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-70AC3A66-A5F3-4874-B209-4765F559D08A"
+    },
+    "media_name": "40fd20167b0b427b818a95726cac81fc.mp3",
+    "call_record_id": "202603-858caf61309d48d7a1d4071be391f3b0",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260313",
+    "transcription": {
+      "language": "en",
+      "duration": 42.0,
+      "text": "Valley Auto Care, this is Diego. Hi, I'm calling because my AC stopped blowing cold. I've never been to your shop before but you have great reviews. Thanks for calling! What kind of vehicle? 2020 Toyota RAV4. We can do an AC diagnostic for $89. If it just needs a recharge that's included. Can I come in Friday afternoon? Absolutely, how about 2 PM? Perfect, see you then. Great, we'll have you down for Friday at 2.",
+      "summary": "## Call Summary\n\nNew customer called about AC not blowing cold on 2020 RAV4. AC diagnostic $89 (recharge included). Appointment booked Friday 2 PM.\n",
+      "segments": [
+        {
+          "text": "Valley Auto Care, this is Diego.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 2.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, I'm calling because my AC stopped blowing cold. I've never been to your shop before but you have great reviews.",
+          "speaker": "remote party",
+          "start_time": 2.8,
+          "end_time": 9.0,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Thanks for calling! What kind of vehicle?",
+          "speaker": "local party",
+          "start_time": 9.2,
+          "end_time": 11.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "2020 Toyota RAV4.",
+          "speaker": "remote party",
+          "start_time": 11.2,
+          "end_time": 12.5,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can do an AC diagnostic for $89. If it just needs a recharge that's included.",
+          "speaker": "local party",
+          "start_time": 12.8,
+          "end_time": 17.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Can I come in Friday afternoon?",
+          "speaker": "remote party",
+          "start_time": 17.2,
+          "end_time": 19.0,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, how about 2 PM?",
+          "speaker": "local party",
+          "start_time": 19.2,
+          "end_time": 20.5,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Perfect, see you then.",
+          "speaker": "remote party",
+          "start_time": 20.8,
+          "end_time": 22.0,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great, we'll have you down for Friday at 2.",
+          "speaker": "local party",
+          "start_time": 22.2,
+          "end_time": 24.5,
+          "channel": "left",
+          "id": 8
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1003",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-858caf61309d48d7a1d4071be391f3b0"
+  },
+  "revision": "",
+  "status": "success"
+}

@@ -1,0 +1,97 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e9de75f6acea4a91bbfdc2481f1b7db6",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940345600-e9de75f6",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "outbound",
+      "duration": 38,
+      "duration_ms": 38000,
+      "owner_id": "818b3ebf285f47a79dcb708375bcb695",
+      "start": 63940345600,
+      "call_id": "D1A5F78A-E005-47D3-89C9-02DFB3FC84C8",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-D1A5F78A-E005-47D3-89C9-02DFB3FC84C8"
+    },
+    "media_name": "0ffb7760c82b449090cdaeda9b9adc8f.mp3",
+    "call_record_id": "202603-e9de75f6acea4a91bbfdc2481f1b7db6",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260314",
+    "transcription": {
+      "language": "en",
+      "duration": 38.0,
+      "text": "Hi, this is Sarah from Greenfield Auto. I'm calling with the estimate on your Jeep Wrangler. Oh hey, what did you find? So the front axle U-joints are shot and the track bar bushing is worn out. U-joints are $380 for both sides with labor. Track bar bushing is $220. Total comes to $600 before tax. Hmm, that's more than I expected. Can I get back to you? Of course, take your time. The estimate is good for 30 days.",
+      "summary": "## Call Summary\n\nSarah called customer with estimate for Jeep Wrangler: U-joints $380, track bar bushing $220, total $600 before tax. Customer wants to think about it. Estimate valid 30 days.\n",
+      "segments": [
+        {
+          "text": "Hi, this is Sarah from Greenfield Auto. I'm calling with the estimate on your Jeep Wrangler.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 5.0,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Oh hey, what did you find?",
+          "speaker": "remote party",
+          "start_time": 5.2,
+          "end_time": 7.0,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "So the front axle U-joints are shot and the track bar bushing is worn out. U-joints are $380 for both sides with labor. Track bar bushing is $220. Total comes to $600 before tax.",
+          "speaker": "local party",
+          "start_time": 7.2,
+          "end_time": 18.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Hmm, that's more than I expected. Can I get back to you?",
+          "speaker": "remote party",
+          "start_time": 18.2,
+          "end_time": 21.5,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course, take your time. The estimate is good for 30 days.",
+          "speaker": "local party",
+          "start_time": 21.8,
+          "end_time": 25.0,
+          "channel": "left",
+          "id": 4
+        }
+      ]
+    },
+    "ooma_call_type": "outgoing",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1001",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-e9de75f6acea4a91bbfdc2481f1b7db6"
+  },
+  "revision": "",
+  "status": "success"
+}

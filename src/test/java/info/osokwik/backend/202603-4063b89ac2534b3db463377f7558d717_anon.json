@@ -1,0 +1,105 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-19T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4063b89ac2534b3db463377f7558d717",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940777600-4063b89a",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "outbound",
+      "duration": 35,
+      "duration_ms": 35000,
+      "owner_id": "a060e72dde9143298d232c976f2211c5",
+      "start": 63940777600,
+      "call_id": "10CFFD67-4A91-4E7F-9839-FFEFE842D7E0",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-10CFFD67-4A91-4E7F-9839-FFEFE842D7E0"
+    },
+    "media_name": "7a659e9449054505a90d0f569cbb53ef.mp3",
+    "call_record_id": "202603-4063b89ac2534b3db463377f7558d717",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260319",
+    "transcription": {
+      "language": "en",
+      "duration": 35.0,
+      "text": "Hi, this is Diego from Valley Auto Care. Just calling to let you know your Accord is all done. Oh awesome, that was fast! How did everything go? Went smooth. New timing belt, water pump, and tensioner are all in. We also topped off your coolant. You guys are the best. I've been coming here for years and never had a bad experience. That means a lot, thank you. You can pick it up anytime before 6. I'll be there in an hour. Thanks Diego!",
+      "summary": "## Call Summary\n\nDiego called to notify customer that Accord repairs are complete \u2014 timing belt, water pump, tensioner replaced, coolant topped off. Customer very satisfied, long-time repeat customer. Pickup before 6 PM.\n",
+      "segments": [
+        {
+          "text": "Hi, this is Diego from Valley Auto Care. Just calling to let you know your Accord is all done.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 5.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Oh awesome, that was fast! How did everything go?",
+          "speaker": "remote party",
+          "start_time": 5.8,
+          "end_time": 9.0,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Went smooth. New timing belt, water pump, and tensioner are all in. We also topped off your coolant.",
+          "speaker": "local party",
+          "start_time": 9.2,
+          "end_time": 16.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "You guys are the best. I've been coming here for years and never had a bad experience.",
+          "speaker": "remote party",
+          "start_time": 16.2,
+          "end_time": 21.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That means a lot, thank you. You can pick it up anytime before 6.",
+          "speaker": "local party",
+          "start_time": 21.2,
+          "end_time": 25.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I'll be there in an hour. Thanks Diego!",
+          "speaker": "remote party",
+          "start_time": 25.2,
+          "end_time": 27.5,
+          "channel": "right",
+          "id": 5
+        }
+      ]
+    },
+    "ooma_call_type": "outgoing",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1003",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-4063b89ac2534b3db463377f7558d717"
+  },
+  "revision": "",
+  "status": "success"
+}

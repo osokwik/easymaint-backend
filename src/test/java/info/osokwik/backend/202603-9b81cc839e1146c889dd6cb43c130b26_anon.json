@@ -1,0 +1,113 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-20T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9b81cc839e1146c889dd6cb43c130b26",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940864000-9b81cc83",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "inbound",
+      "duration": 40,
+      "duration_ms": 40000,
+      "owner_id": "a35271ab16884927838c8c9d245de036",
+      "start": 63940864000,
+      "call_id": "22EC3C31-1DD5-456A-8566-3B4C71DBD59A",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-22EC3C31-1DD5-456A-8566-3B4C71DBD59A"
+    },
+    "media_name": "ec0e23abbb1f48858c1053ca26bd77e0.mp3",
+    "call_record_id": "202603-9b81cc839e1146c889dd6cb43c130b26",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260320",
+    "transcription": {
+      "language": "en",
+      "duration": 40.0,
+      "text": "Greenfield Auto Repair, this is Sarah. Hi, I found you on Google. I need a head gasket replaced on my 2014 Subaru Forester. How much would that run? Head gaskets on the Forester are labor-intensive. We're looking at $2,400 to $2,800 depending on condition. Wow, seriously? The car's barely worth $8,000. That's way too much. I understand. It is a big job \u2014 about 12 hours of labor. Yeah, I think I'll just sell the car. Thanks anyway. No problem. Good luck with everything.",
+      "summary": "## Call Summary\n\nNew caller inquired about head gasket replacement for 2014 Subaru Forester. Quoted $2,400-$2,800. Customer declined due to cost vs. car value, considering selling instead.\n",
+      "segments": [
+        {
+          "text": "Greenfield Auto Repair, this is Sarah.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 2.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, I found you on Google. I need a head gasket replaced on my 2014 Subaru Forester. How much would that run?",
+          "speaker": "remote party",
+          "start_time": 2.8,
+          "end_time": 9.0,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Head gaskets on the Forester are labor-intensive. We're looking at $2,400 to $2,800 depending on condition.",
+          "speaker": "local party",
+          "start_time": 9.2,
+          "end_time": 15.5,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Wow, seriously? The car's barely worth $8,000. That's way too much.",
+          "speaker": "remote party",
+          "start_time": 15.8,
+          "end_time": 20.0,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. It is a big job \u2014 about 12 hours of labor.",
+          "speaker": "local party",
+          "start_time": 20.2,
+          "end_time": 24.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yeah, I think I'll just sell the car. Thanks anyway.",
+          "speaker": "remote party",
+          "start_time": 24.2,
+          "end_time": 27.5,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "No problem. Good luck with everything.",
+          "speaker": "local party",
+          "start_time": 27.8,
+          "end_time": 30.0,
+          "channel": "left",
+          "id": 6
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1001",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-9b81cc839e1146c889dd6cb43c130b26"
+  },
+  "revision": "",
+  "status": "success"
+}

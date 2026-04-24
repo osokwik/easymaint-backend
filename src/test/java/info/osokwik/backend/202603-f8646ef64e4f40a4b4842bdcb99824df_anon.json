@@ -1,0 +1,113 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-17T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f8646ef64e4f40a4b4842bdcb99824df",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63940604800-f8646ef6",
+    "ooma_unsolicited_call_recording": false,
+    "metadata": {
+      "direction": "outbound",
+      "duration": 50,
+      "duration_ms": 50000,
+      "owner_id": "2abb5d096b29417885979c39f365c1c2",
+      "start": 63940604800,
+      "call_id": "3C4E202C-7FEE-4F54-9116-69C55C9CB10B",
+      "callee_id_number": "[PHONE_NUMBER]",
+      "caller_id_name": "[NAME]",
+      "caller_id_number": "[PHONE_NUMBER]",
+      "cdr_id": "202603-3C4E202C-7FEE-4F54-9116-69C55C9CB10B"
+    },
+    "media_name": "11dd5118b9c64d8a88b19d8fac79b44c.mp3",
+    "call_record_id": "202603-f8646ef64e4f40a4b4842bdcb99824df",
+    "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+    "retry_after": 60,
+    "request_end_time": "14:34:54",
+    "request_start_time": "14:34:49",
+    "transcription_month": "202603",
+    "transcription_date": "20260317",
+    "transcription": {
+      "language": "en",
+      "duration": 50.0,
+      "text": "Hi, this is Sarah from Greenfield Auto calling about your 2016 Nissan Rogue. Yeah, go ahead. So we found the CVT transmission is failing. Unfortunately it needs a full replacement. The cost is $4,200 for a remanufactured unit with a 3-year warranty. Are you kidding me? That's insane for a car that's only worth maybe $10,000. I understand it's a big number. We can also look at a used unit for around $2,800 but the warranty is only 90 days. This is ridiculous. I need to talk to my spouse. I'll call you back. Of course, take all the time you need.",
+      "summary": "## Call Summary\n\nCalled customer about 2016 Nissan Rogue CVT failure. Quoted $4,200 remanufactured (3-yr warranty) or $2,800 used (90-day warranty). Customer upset about cost, will discuss with spouse.\n",
+      "segments": [
+        {
+          "text": "Hi, this is Sarah from Greenfield Auto calling about your 2016 Nissan Rogue.",
+          "speaker": "local party",
+          "start_time": 0.5,
+          "end_time": 4.5,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Yeah, go ahead.",
+          "speaker": "remote party",
+          "start_time": 4.8,
+          "end_time": 5.5,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "So we found the CVT transmission is failing. Unfortunately it needs a full replacement. The cost is $4,200 for a remanufactured unit with a 3-year warranty.",
+          "speaker": "local party",
+          "start_time": 5.8,
+          "end_time": 15.0,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Are you kidding me? That's insane for a car that's only worth maybe $10,000.",
+          "speaker": "remote party",
+          "start_time": 15.2,
+          "end_time": 19.5,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand it's a big number. We can also look at a used unit for around $2,800 but the warranty is only 90 days.",
+          "speaker": "local party",
+          "start_time": 19.8,
+          "end_time": 26.0,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "This is ridiculous. I need to talk to my spouse. I'll call you back.",
+          "speaker": "remote party",
+          "start_time": 26.2,
+          "end_time": 30.0,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course, take all the time you need.",
+          "speaker": "local party",
+          "start_time": 30.2,
+          "end_time": 32.5,
+          "channel": "left",
+          "id": 6
+        }
+      ]
+    },
+    "ooma_call_type": "outgoing",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1001",
+    "ooma_resolution_code": "Call Complete",
+    "id": "202603-f8646ef64e4f40a4b4842bdcb99824df"
+  },
+  "revision": "",
+  "status": "success"
+}
