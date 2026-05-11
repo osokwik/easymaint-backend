@@ -132,6 +132,12 @@
                 }
             ]
         },
+        "ooma_call_type": "outgoing",
+        "ooma_local_name": "[NAME]",
+        "ooma_local_number": "[PHONE_NUMBER]",
+        "ooma_remote_number": "[PHONE_NUMBER]",
+        "ooma_ext": "1001",
+        "ooma_resolution_code": "Call Complete",
         "id": "202603-11e870e69a1e4de483df57835e627912"
     },
     "revision": "",
