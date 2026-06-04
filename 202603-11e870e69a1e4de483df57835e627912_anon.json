@@ -132,7 +132,7 @@
                 }
             ]
         },
-        "ooma_call_type": "outgoing",
+        "ooma_call_type": "internal",
         "ooma_local_name": "[NAME]",
         "ooma_local_number": "[PHONE_NUMBER]",
         "ooma_remote_number": "[PHONE_NUMBER]",
