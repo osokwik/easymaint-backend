@@ -113,6 +113,12 @@
           "id": 10
         }
       ],
+      "ooma_call_type": "outgoing",
+      "ooma_local_name": "[NAME]",
+      "ooma_local_number": "[PHONE_NUMBER]",
+      "ooma_remote_number": "[PHONE_NUMBER]",
+      "ooma_ext": "1001",
+      "ooma_resolution_code": "Call Complete",
       "text": "Hi, this is Mike from Precision Collision. Calling about the 2021 Camry we've got in the shop. Hey Mike, what's the update? So we pulled the bumper cover off and found the reinforcement bar is bent too. It wasn't visible from the outside. Oh man. How much extra is that gonna be? The bar is about $320 for the part, plus another hour and a half of labor. So roughly $500 on top of the original estimate. Okay. Will insurance cover it? Yeah, we'll submit a supplement to your adjuster. Shouldn't be an issue. Alright. Does this push back the completion date? Maybe a day. We're looking at next Wednesday now instead of Tuesday. That's fine. Thanks for letting me know Mike. No problem. We'll keep you posted. Bye.",
       "summary": "## Call Summary\n\nMike from Precision Collision called customer about a 2021 Camry repair. Hidden damage found: bent reinforcement bar. Additional cost ~$500, to be submitted as insurance supplement. Completion pushed to Wednesday.\n\n**Action Items:**\n- Submit supplement to insurance adjuster.\n- Update completion date to Wednesday.\n",
       "duration": 95,
