@@ -22,6 +22,13 @@
       "caller_id_name": "[NAME]",
       "callee_id_number": "[PHONE_NUMBER]"
     },
+    "duration": 100,
+    "ooma_call_type": "outgoing",
+    "ooma_local_name": "[NAME]",
+    "ooma_local_number": "[PHONE_NUMBER]",
+    "ooma_remote_number": "[PHONE_NUMBER]",
+    "ooma_ext": "1001",
+    "ooma_resolution_code": "Call Complete",
     "transcription": {
       "segments": [
         {
@@ -123,13 +130,6 @@
       ],
       "text": "Pinnacle Auto Body, this is Mike. Hey Mike, it's Dave. Calling to check on my F-150. The 2019. Hey Dave. Let me pull up your file. Okay, parts came in yesterday. Front bumper and headlight assembly. Nice. When's it gonna be ready? Friday. The paint needs to cure overnight so we can't rush it. Friday works. What's the total? With parts and labor, $2,850. That's the full amount minus what insurance is covering. You just owe your $500 deductible. Okay cool. I'll come by Friday then. We'll call you Friday morning when it's ready. Sounds good. Thanks Mike. No problem Dave. See you Friday.",
       "summary": "## Call Summary\n\nDave called Pinnacle Auto Body about his 2019 F-150 repair. Parts (bumper, headlight assembly) arrived. Total $2,850, customer owes $500 deductible. Ready Friday.\n\n**Action Items:**\n- Call Dave Friday morning when truck is ready.\n",
-      "duration": 100,
-      "ooma_call_type": "outgoing",
-      "ooma_local_name": "[NAME]",
-      "ooma_local_number": "[PHONE_NUMBER]",
-      "ooma_remote_number": "[PHONE_NUMBER]",
-      "ooma_ext": "1001",
-      "ooma_resolution_code": "Call Complete",
       "language": "en"
     }
   },
