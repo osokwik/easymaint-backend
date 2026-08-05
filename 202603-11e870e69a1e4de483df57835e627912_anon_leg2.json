@@ -1,0 +1,130 @@
+{
+    "version": "5.3",
+    "tokens": {
+        "consumed": 0,
+        "remaining": 0
+    },
+    "timestamp": "2026-03-16T00:00:00Z",
+    "request_id": "",
+    "node": "",
+    "metadata": {
+        "id": "202603-a2b3c4d5e6f7890123456789abcdef01",
+        "created": 0,
+        "modified": 0
+    },
+    "data": {
+        "reverse_left_right_channel": false,
+        "interaction_id": "63939945800-0b25bd9d",
+        "ooma_unsolicited_call_recording": false,
+        "metadata": {
+            "direction": "inbound",
+            "duration": 85,
+            "duration_ms": 85200,
+            "owner_id": "8a23b456c789d012e345f678a901b234",
+            "start": 63944240600,
+            "call_id": "9F4A21BC-E7D8-42CF-B561-7C890DEF1234",
+            "callee_id_number": "[PHONE_NUMBER]",
+            "caller_id_name": "[NAME]",
+            "caller_id_number": "[PHONE_NUMBER]",
+            "cdr_id": "202603-9F4A21BC-E7D8-42CF-B561-7C890DEF1234"
+        },
+        "media_name": "b9c8d7e6f5a4321098765432fedcba09.mp3",
+        "call_record_id": "202603-a2b3c4d5e6f7890123456789abcdef01",
+        "target_db": "account%2F7e%2F9a%2Ffca79d7bb52d7dbcb103a7fa870b-202603",
+        "retry_after": 60,
+        "request_end_time": "14:38:25",
+        "request_start_time": "14:38:20",
+        "transcription_month": "202603",
+        "transcription_date": "20260306",
+        "transcription": {
+            "language": "en",
+            "duration": 35.0,
+            "text": "Parts department, this is Mike. Hey Mike, Steve transferred me over. I wanted to check if you have the aftermarket cat in stock for the Outback. Let me look. What year? 2019. Yeah we've got one from Walker. Ships overnight from our warehouse. Great. Steve said about $800 installed? That's right, $800 with the 2-year warranty. Perfect, go ahead and order it. Will do. We'll have it by tomorrow morning.",
+            "summary": "## Call Summary\n\nCustomer was transferred to parts department (Mike) to confirm aftermarket catalytic converter availability for 2019 Subaru Outback. Walker brand in stock, ships overnight. Confirmed $800 installed with 2-year warranty. Parts ordered.\n\n**Action Items:**\n- Order Walker aftermarket cat for 2019 Outback.\n- Part arrives tomorrow morning.\n",
+            "segments": [
+                {
+                    "text": "[LEG 2 START] Parts department, this is Mike.",
+                    "speaker": "local party",
+                    "start_time": 0.5,
+                    "end_time": 2.5,
+                    "channel": "left",
+                    "id": 0
+                },
+                {
+                    "text": "Hey Mike, Steve transferred me over. I wanted to check if you have the aftermarket cat in stock for the Outback.",
+                    "speaker": "remote party",
+                    "start_time": 2.8,
+                    "end_time": 8.5,
+                    "channel": "right",
+                    "id": 1
+                },
+                {
+                    "text": "Let me look. What year?",
+                    "speaker": "local party",
+                    "start_time": 8.8,
+                    "end_time": 10.5,
+                    "channel": "left",
+                    "id": 2
+                },
+                {
+                    "text": "2019.",
+                    "speaker": "remote party",
+                    "start_time": 10.8,
+                    "end_time": 11.5,
+                    "channel": "right",
+                    "id": 3
+                },
+                {
+                    "text": "Yeah we've got one from Walker. Ships overnight from our warehouse.",
+                    "speaker": "local party",
+                    "start_time": 12.0,
+                    "end_time": 16.5,
+                    "channel": "left",
+                    "id": 4
+                },
+                {
+                    "text": "Great. Steve said about $800 installed?",
+                    "speaker": "remote party",
+                    "start_time": 16.8,
+                    "end_time": 19.5,
+                    "channel": "right",
+                    "id": 5
+                },
+                {
+                    "text": "That's right, $800 with the 2-year warranty.",
+                    "speaker": "local party",
+                    "start_time": 19.8,
+                    "end_time": 23.0,
+                    "channel": "left",
+                    "id": 6
+                },
+                {
+                    "text": "Perfect, go ahead and order it.",
+                    "speaker": "remote party",
+                    "start_time": 23.2,
+                    "end_time": 25.5,
+                    "channel": "right",
+                    "id": 7
+                },
+                {
+                    "text": "Will do. We'll have it by tomorrow morning.",
+                    "speaker": "local party",
+                    "start_time": 25.8,
+                    "end_time": 28.5,
+                    "channel": "left",
+                    "id": 8
+                }
+            ]
+        },
+        "ooma_call_type": "internal",
+        "ooma_local_name": "Mike Parts",
+        "ooma_local_number": "[PHONE_NUMBER]",
+        "ooma_remote_number": "[PHONE_NUMBER]",
+        "ooma_ext": "1002",
+        "ooma_resolution_code": "Answered by User",
+        "ooma_resolution_ext": "1002",
+        "id": "202603-a2b3c4d5e6f7890123456789abcdef01"
+    },
+    "revision": "",
+    "status": "success"
+}
