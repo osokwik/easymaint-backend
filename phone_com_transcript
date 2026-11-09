@@ -1,0 +1,96 @@
+{
+  "transcription": "Speaker 0: Hi, this is Steve from Northgate Auto. I'm calling with an update on your Subaru Outback. Speaker 1: Oh good, I've been waiting to hear. What did you find? Speaker 0: So the check engine light was a bad catalytic converter on the passenger side. We also found the CV axle boot is torn on the driver side. Speaker 1: Ugh. How much are we talking? Speaker 0: The cat is $1,200 for an OEM replacement with labor. The CV axle is $350. Total would be $1,550 plus tax. Speaker 1: Is there an aftermarket option for the cat? Speaker 0: We can do aftermarket for about $800 installed. It carries a 2-year warranty instead of 5. Speaker 1: Let's go aftermarket on the cat and do the CV axle too. Speaker 0: Okay, so $800 plus $350, that's $1,150 before tax. We can have it done by Thursday. Speaker 1: Thursday works. Thanks Steve. Speaker 0: You got it. We'll call when it's ready.",
+  "transcription_object": {
+    "speakers": {
+      "spk_1": {
+        "display_name": "Steve",
+        "e164": "+15035550142",
+        "voip_phone_id": 2820336
+      },
+      "spk_2": {
+        "e164": "+15035550187"
+      }
+    },
+    "lines": [
+      {
+        "speaker_id": "spk_1",
+        "text": "Hi, this is Steve from Northgate Auto. I'm calling with an update on your Subaru Outback.",
+        "ts_start_ms": 500
+      },
+      {
+        "speaker_id": "spk_2",
+        "text": "Oh good, I've been waiting to hear. What did you find?",
+        "ts_start_ms": 5200
+      },
+      {
+        "speaker_id": "spk_1",
+        "text": "So the check engine light was a bad catalytic converter on the passenger side. We also found the CV axle boot is torn on the driver side.",
+        "ts_start_ms": 8200
+      },
+      {
+        "speaker_id": "spk_2",
+        "text": "Ugh. How much are we talking?",
+        "ts_start_ms": 16200
+      },
+      {
+        "speaker_id": "spk_1",
+        "text": "The cat is $1,200 for an OEM replacement with labor. The CV axle is $350. Total would be $1,550 plus tax.",
+        "ts_start_ms": 18200
+      },
+      {
+        "speaker_id": "spk_2",
+        "text": "Is there an aftermarket option for the cat?",
+        "ts_start_ms": 25800
+      },
+      {
+        "speaker_id": "spk_1",
+        "text": "We can do aftermarket for about $800 installed. It carries a 2-year warranty instead of 5.",
+        "ts_start_ms": 28200
+      },
+      {
+        "speaker_id": "spk_2",
+        "text": "Let's go aftermarket on the cat and do the CV axle too.",
+        "ts_start_ms": 33200
+      },
+      {
+        "speaker_id": "spk_1",
+        "text": "Okay, so $800 plus $350, that's $1,150 before tax. We can have it done by Thursday.",
+        "ts_start_ms": 36800
+      },
+      {
+        "speaker_id": "spk_2",
+        "text": "Thursday works. Thanks Steve.",
+        "ts_start_ms": 42200
+      },
+      {
+        "speaker_id": "spk_1",
+        "text": "You got it. We'll call when it's ready.",
+        "ts_start_ms": 44200
+      }
+    ],
+    "full_transcription": "Speaker 0: Hi, this is Steve from Northgate Auto. I'm calling with an update on your Subaru Outback. Speaker 1: Oh good, I've been waiting to hear. What did you find? Speaker 0: So the check engine light was a bad catalytic converter on the passenger side. We also found the CV axle boot is torn on the driver side. Speaker 1: Ugh. How much are we talking? Speaker 0: The cat is $1,200 for an OEM replacement with labor. The CV axle is $350. Total would be $1,550 plus tax. Speaker 1: Is there an aftermarket option for the cat? Speaker 0: We can do aftermarket for about $800 installed. It carries a 2-year warranty instead of 5. Speaker 1: Let's go aftermarket on the cat and do the CV axle too. Speaker 0: Okay, so $800 plus $350, that's $1,150 before tax. We can have it done by Thursday. Speaker 1: Thursday works. Thanks Steve. Speaker 0: You got it. We'll call when it's ready.",
+    "voip_phone_id": 2820336
+  },
+  "summary": {
+    "brief_summary": {
+      "title": "Brief Summary",
+      "logo": "https://assets.phone.com/call-summaries/summary-icon.png",
+      "content": "- Northgate Auto called with diagnosis results on the customer's Subaru Outback: bad passenger-side catalytic converter and a torn driver-side CV axle boot.  \n- Customer chose the aftermarket catalytic converter plus the CV axle repair, $1,150 before tax, ready Thursday."
+    },
+    "abstract_summary": {
+      "title": "Summary",
+      "logo": "https://assets.phone.com/call-summaries/summary-icon.png",
+      "content": "Steve from Northgate Auto called the customer with an update on their Subaru Outback. The check engine light was caused by a failing passenger-side catalytic converter, and the driver-side CV axle boot was torn. An OEM converter would total $1,550 plus tax with the axle; the customer opted for an $800 aftermarket converter with a 2-year warranty, bringing the total to $1,150 before tax. The work will be done by Thursday."
+    },
+    "key_points": {
+      "title": "Key Points",
+      "logo": "https://assets.phone.com/call-summaries/action.png",
+      "content": "1. Check engine light traced to a bad passenger-side catalytic converter.  \n2. Driver-side CV axle boot is torn.  \n3. OEM converter quoted at $1,200; CV axle at $350.  \n4. Aftermarket converter available for $800 with a 2-year warranty.  \n5. Customer approved aftermarket converter and CV axle, $1,150 before tax.  \n6. Repairs expected to be finished Thursday."
+    },
+    "action_items": {
+      "title": "Action Items",
+      "logo": "https://assets.phone.com/call-summaries/action.png",
+      "content": "1. Install the aftermarket catalytic converter and replace the CV axle.\n2. Complete repairs by Thursday.\n3. Call the customer when the vehicle is ready."
+    }
+  }
+}
